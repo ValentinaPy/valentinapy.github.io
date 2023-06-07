@@ -18,6 +18,8 @@ I also co-organized [the Second Workshop on Understanding Implicit and Underspec
 
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me).
 
+At the end of the summer I will be starting a PostDoc at [AI2](https://allenai.org/) and [The University of Washington](https://www.cs.washington.edu/research/nlp), with [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/)!
+
 ### News
 * May 2023: Paper accepted to ACL 2023!
 * March 2023: [TACL](https://arxiv.org/abs/2304.00815) paper accepted, to be presented at ACL 2023.
