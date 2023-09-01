@@ -7,9 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a PhD student in Natural Language Pocessing at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I am also currently a visiting PhD student at [UW NLP](https://nlp.washington.edu) at the University of Washington.
-This summer I had the pleasure of interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle and I am very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
+I am a postdoctoral researcher (and Young Investigator) on the [Mosaic team at AI2](https://mosaic.allenai.org/), with Prof. Yejin Choi, and at the University of Washington.
+I completed my PhD in Natural Language Pocessing at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I also was a visiting PhD student at [UW NLP](https://nlp.washington.edu) and had the pleasure of interning twice at the [Allen Institute for AI](https://allenai.org)). I am very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 
 My research focuses on *discourse* phenomena and *pragmatics*. My main interest currently lies in question generation. I also often use QA representations to capture propositions and once in a while I look at the modality of events.
@@ -18,7 +17,6 @@ I also co-organized [the Second Workshop on Understanding Implicit and Underspec
 
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me).
 
-At the end of the summer I will be starting a PostDoc at [AI2](https://allenai.org/) and [The University of Washington](https://www.cs.washington.edu/research/nlp), with [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/)!
 
 ### News
 * May 2023: Paper accepted to ACL 2023!
