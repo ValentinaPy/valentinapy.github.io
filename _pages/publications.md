@@ -16,6 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 # Selected Publications
+
+## *2023*
+
+### *Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties*
+Taylor Sorensen, Liwei Jiang, Jena Hwang, Sydney Levine, <ins>Valentina Pyatkin</ins>, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi
+[ArXiV](https://arxiv.org/abs/2305.19472)
+
 ### *PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning*
 Faeze Brahman, Chandra Bhagavatula, <ins>Valentina Pyatkin</ins>, Jena D. Hwang, Xiang Lorraine Li, Hirona J. Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi.
 [ArXiV](https://arxiv.org/abs/2305.19472)
@@ -36,6 +43,8 @@ Shauli Ravfogel, <ins>Valentina Pyatkin</ins>, Amir DN Cohen, Avshalom Manevich,
 Eran Hirsch, <ins>Valentina Pyatkin</ins>, Ruben Wolhandler, Avi Caciularu, Asi Shefer, Ido Dagan. In ACL Findings.
 [PDF](https://arxiv.org/pdf/2305.15605)
 
+## *2022*
+
 ### *Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE.*
 Gu, Yuling, Yao Fu, <ins>Valentina Pyatkin</ins>, Ian H. Magnusson, Bhavana Dalvi and Peter Clark. In Proceedings of the Workshop on Figurative Language Processing at EMNLP 2022.
 [PDF](https://arxiv.org/pdf/2210.16407.pdf)
@@ -55,6 +64,8 @@ Royi Lachmy, <ins>Valentina Pyatkin</ins>, Avshalom Manevich, Reut Tsarfaty.
 In TACL.
 [PDF](https://arxiv.org/pdf/2106.14321.pdf)
 
+## *2021*
+
 ### *Asking It All: Generating Contextualized Questions for any Semantic Role*
 <ins>Valentina Pyatkin</ins>\*, Paul Roit\*, Julian Michael, Reut Tsarfaty, Yoav Goldberg, Ido Dagan.
 In EMNLP 2021.  
@@ -65,6 +76,8 @@ In EMNLP 2021.
 In ACL 2021.  
 [PDF]([http://arxiv.org/abs/2106.08037](https://aclanthology.org/2021.acl-long.77.pdf))
 
+## *2020*
+
 ### *QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines*
 <ins>Valentina Pyatkin</ins>, Ayal Klein, Reut Tsarfaty, Ido Dagan.  
 In EMNLP 2020.  
@@ -74,6 +87,8 @@ In EMNLP 2020.
 Ayal Klein, Jonathan Mamou, <ins>Valentina Pyatkin</ins>, Daniela Stepanov, Hangfeng He, Dan Roth, Luke Zettlemoyer, Ido Dagan.  
 In COLING 2020.  
 [PDF](https://www.aclweb.org/anthology/2020.coling-main.274.pdf)
+
+## *2017*
 
 ### *Discourse Relations and Conjoined VPs: Automated Sense Recognition*
 <ins>Valentina Pyatkin</ins>, Bonnie Webber.    
