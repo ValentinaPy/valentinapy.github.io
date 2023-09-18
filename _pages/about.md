@@ -19,7 +19,7 @@ Besides this I love rowing (currently at Lake Washington Rowing Club) and going 
 
 
 ### News
-* September 2023: Gave a talk at a local Seattle high school on deep learning, LLLMs and ethics.
+* September 2023: Gave a talk at a local Seattle high school on deep learning, LLMs and ethics.
 * September 2023: Gave an invited talk at the KR 2023 workshop on Computational Machine Ethics.
 * May 2023: Paper accepted to ACL 2023!
 * March 2023: [TACL](https://arxiv.org/abs/2304.00815) paper accepted, to be presented at ACL 2023.
