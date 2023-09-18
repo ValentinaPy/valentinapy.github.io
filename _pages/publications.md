@@ -18,6 +18,7 @@ author_profile: true
 # Selected Publications
 
 ## *2023*
+---------------	
 
 ### *Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties*
 Taylor Sorensen, Liwei Jiang, Jena Hwang, Sydney Levine, <ins>Valentina Pyatkin</ins>, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi
