@@ -36,7 +36,7 @@ Shauli Ravfogel, <ins>Valentina Pyatkin</ins>, Amir DN Cohen, Avshalom Manevich,
 <ins>Valentina Pyatkin</ins>, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg. In TACL.
 [PDF](https://arxiv.org/abs/2304.00815)
 
-### *Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations*
+### *ClarifyDelphi: Reinforced Clarification Questions with Defeasibility Rewards for Social and Moral Situations*
 <ins>Valentina Pyatkin</ins>, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula. In ACL.
 [PDF](https://arxiv.org/pdf/2212.10409.pdf)
 
