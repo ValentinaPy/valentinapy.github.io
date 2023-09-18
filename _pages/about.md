@@ -11,7 +11,7 @@ I am a postdoctoral researcher (and Young Investigator) on the [Mosaic team at A
 I completed my PhD in Natural Language Pocessing at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I also was a visiting PhD student at [UW NLP](https://nlp.washington.edu) and had the pleasure of interning twice at the [Allen Institute for AI](https://allenai.org)). I am very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 
-My research focuses on *discourse*, *semantics* and *pragmatics*. My main interest currently lies in question generation and using RL for natural language generation. I am also interested in underspecified, ambiguous and implicit language and in teaching models how to better deal with such phenomena.
+My research focuses on *discourse*, *semantics* and *pragmatics*. My main interest currently lies in question generation and using RL (with human feedback) for natural language generation. I am also interested in underspecified, ambiguous and implicit language and in teaching models how to better deal with such phenomena.
 
 I also co-organized [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
 
