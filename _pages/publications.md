@@ -20,6 +20,10 @@ author_profile: true
 ## *2023*
 ---------------	
 
+### *Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement*
+Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, <ins>Valentina Pyatkin</ins>, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren
+[ArXiV](https://arxiv.org/pdf/2310.08559)
+
 ### *Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties*
 Taylor Sorensen, Liwei Jiang, Jena Hwang, Sydney Levine, <ins>Valentina Pyatkin</ins>, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi
 [ArXiV](https://arxiv.org/abs/2305.19472)
