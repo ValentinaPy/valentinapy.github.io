@@ -13,12 +13,14 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 
 My research focuses on *discourse*, *semantics* and *pragmatics*. My main interest currently lies in question generation and using RL (with human feedback) for natural language generation. I am also interested in underspecified, ambiguous and implicit language and in teaching models how to better deal with such phenomena.
 
-I also co-organized [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
+I am co-organizing the  [the Third Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2024.github.io/), collocated with EACL-2024 in Malta! I also co-organized [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
 
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me).
 
 
 ### News
+* December 2023: Will give an invited talk at Brown/Tübingen.
+* October 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
 * September 2023: Gave a talk at a local Seattle high school on deep learning, LLMs and ethics.
 * September 2023: Gave an invited talk at the KR 2023 workshop on Computational Machine Ethics.
 * May 2023: Paper accepted to ACL 2023!
