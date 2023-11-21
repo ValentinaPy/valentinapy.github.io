@@ -20,6 +20,18 @@ author_profile: true
 ## *2023*
 ---------------	
 
+### *Camels in a Changing Climate: Enhancing LM Adaptation with TÜLU 2*
+Hamish Ivison, Yizhong Wang, <ins>Valentina Pyatkin</ins>, Nathan Lambert, Matthew Peters, Pradeep Dasigi, Joel Jang, David Wadden, Noah A. Smith, Iz Beltagy, Hannaneh Hajishirzi
+[ArXiV](https://arxiv.org/pdf/2311.10702.pdf)
+
+### *" You Are An Expert Linguistic Annotator": Limits of LLMs as Analyzers of Abstract Meaning Representation*
+Allyson Ettinger, Jena D Hwang, <ins>Valentina Pyatkin</ins>, Chandra Bhagavatula, Yejin Choi
+[ArXiV](https://arxiv.org/pdf/2310.17793.pdf)
+
+### *What Makes it Ok to Set a Fire? Iterative Self-distillation of Contexts and Rationales for Disambiguating Defeasible Social and Moral Situations*
+Kavel Rao, Liwei Jiang, <ins>Valentina Pyatkin</ins>, Yuling Gu, Niket Tandon, Nouha Dziri, Faeze Brahman, Yejin Choi
+[ArXiV](https://arxiv.org/pdf/2310.15431)
+
 ### *Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement*
 Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, <ins>Valentina Pyatkin</ins>, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren
 [ArXiV](https://arxiv.org/pdf/2310.08559)
