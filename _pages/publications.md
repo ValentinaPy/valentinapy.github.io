@@ -24,7 +24,7 @@ Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind T
 [ArXiV](https://arxiv.org/pdf/2402.00838.pdf?)
 
 ### *Promptly Predicting Structures: The Return of Inference*
-Maitrey Mehta, Valentina Pyatkin, Vivek Srikumar
+Maitrey Mehta, <ins>Valentina Pyatkin</ins>, Vivek Srikumar
 [ArXiV](https://arxiv.org/pdf/2401.06877.pdf)
 
 ## *2023*
