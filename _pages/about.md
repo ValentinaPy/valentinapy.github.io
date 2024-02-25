@@ -19,7 +19,11 @@ Besides this I love rowing (currently at Lake Washington Rowing Club) and going 
 
 
 ### News
-* December 2023: Will give an invited talk at Brown/Tübingen.
+* March 2024: Invited talk at the University of Edinburgh.
+* March 2024: Invited talk at Harvard.
+* March 2024: DAAD sponsored visit to the University of Saarbrücken, the Max Planck Institute for Software Systems and the University of Stuttgart.
+* February 2024: Invited talk at the UBC NLP group.
+* December 2023: Invited talk at Brown/Tübingen.
 * October 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
 * September 2023: Gave a talk at a local Seattle high school on deep learning, LLMs and ethics.
 * September 2023: Gave an invited talk at the KR 2023 workshop on Computational Machine Ethics.
