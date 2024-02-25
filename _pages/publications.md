@@ -17,6 +17,16 @@ author_profile: true
 
 # Selected Publications
 
+## *2024*
+---------------	
+### *OLMo: Accelerating the Science of Language Models*
+Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi
+[ArXiV](https://arxiv.org/pdf/2402.00838.pdf?)
+
+### *Promptly Predicting Structures: The Return of Inference*
+Maitrey Mehta, Valentina Pyatkin, Vivek Srikumar
+[ArXiV](https://arxiv.org/pdf/2401.06877.pdf)
+
 ## *2023*
 ---------------	
 
