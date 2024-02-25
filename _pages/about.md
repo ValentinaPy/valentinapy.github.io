@@ -19,6 +19,7 @@ Besides this I love rowing (currently at Lake Washington Rowing Club) and going 
 
 
 ### News
+* April 2024: Invited talk at the UMass NLP Seminar.
 * March 2024: Invited talk at the University of Edinburgh.
 * March 2024: Invited talk at Harvard.
 * March 2024: DAAD sponsored visit to the University of Saarbrücken, the Max Planck Institute for Software Systems and the University of Stuttgart.
