@@ -38,14 +38,3 @@ Besides this I love rowing (currently at Lake Washington Rowing Club) and going 
 * September 2022: [Paper](https://arxiv.org/pdf/2106.14321.pdf) accepted to TACL.
 * July 2022: Co-organized the UnImplicit workshop at NAACL-2022.
 * June 2022: Started my internship at [AI2 Mosaic](https://mosaic.allenai.org/people)
-<!--* May 2022: [Paper]([https://arxiv.org/pdf/2109.04832.pdf](https://aclanthology.org/2022.lrec-1.231.pdf)) accepted at LREC 2022.
-<!--* May 2022: Aynat presented our work on “Machine classification of modal meanings: An empirical study and some consequences” at [ELM2](https://www.elm-conference.net/)
-<!--* December 2021: Will present a poster at the [Meaning in Context: Pragmatic Communication in Humans and Machines](https://mic-workshop.github.io) workshop at NeurIPS 2021.
-<!--* November 2021: Got invited to give a talk at the University of Wolverhampton.
-<!--* October 2021: Gave a talk at Cardiff University.
-<!--* August 2021: [Paper](https://arxiv.org/pdf/2109.04832.pdf) accepted at EMNLP 2021.
-<!--* May 2021: [Paper](https://arxiv.org/pdf/2106.08037.pdf) accepted at ACL 2021.
-<!--* October 2020: [Paper](https://www.aclweb.org/anthology/2020.coling-main.274.pdf) accepted at COLING 2020.
-<!--* September 2020: [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.224.pdf) accepted at EMNLP 2020.
-<!--* September 2020: Presented poster at ISCOL 2020.
-<!--* October 2019: Presented poster at EurNLP 2019.
