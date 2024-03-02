@@ -39,24 +39,24 @@ Hamish Ivison, Yizhong Wang, <ins>Valentina Pyatkin</ins>, Nathan Lambert, Matth
 [ArXiV](https://arxiv.org/pdf/2311.10702.pdf)
 
 ### *" You Are An Expert Linguistic Annotator": Limits of LLMs as Analyzers of Abstract Meaning Representation*
-Allyson Ettinger, Jena D Hwang, <ins>Valentina Pyatkin</ins>, Chandra Bhagavatula, Yejin Choi
-[ArXiV](https://arxiv.org/pdf/2310.17793.pdf)
+Allyson Ettinger, Jena D Hwang, <ins>Valentina Pyatkin</ins>, Chandra Bhagavatula, Yejin Choi. In EMNLP Findings.
+[PDF](https://arxiv.org/pdf/2310.17793.pdf)
 
 ### *What Makes it Ok to Set a Fire? Iterative Self-distillation of Contexts and Rationales for Disambiguating Defeasible Social and Moral Situations*
-Kavel Rao, Liwei Jiang, <ins>Valentina Pyatkin</ins>, Yuling Gu, Niket Tandon, Nouha Dziri, Faeze Brahman, Yejin Choi
-[ArXiV](https://arxiv.org/pdf/2310.15431)
+Kavel Rao, Liwei Jiang, <ins>Valentina Pyatkin</ins>, Yuling Gu, Niket Tandon, Nouha Dziri, Faeze Brahman, Yejin Choi. In EMNLP Findings.
+[PDF](https://arxiv.org/pdf/2310.15431)
 
 ### *Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement*
-Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, <ins>Valentina Pyatkin</ins>, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren
-[ArXiV](https://arxiv.org/pdf/2310.08559)
+Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, <ins>Valentina Pyatkin</ins>, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren. In ICLR.
+[PDF](https://arxiv.org/pdf/2310.08559)
 
 ### *Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties*
-Taylor Sorensen, Liwei Jiang, Jena Hwang, Sydney Levine, <ins>Valentina Pyatkin</ins>, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi
-[ArXiV](https://arxiv.org/abs/2305.19472)
+Taylor Sorensen, Liwei Jiang, Jena Hwang, Sydney Levine, <ins>Valentina Pyatkin</ins>, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi. In AAAI.
+[PDF](https://arxiv.org/abs/2305.19472)
 
 ### *PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning*
-Faeze Brahman, Chandra Bhagavatula, <ins>Valentina Pyatkin</ins>, Jena D. Hwang, Xiang Lorraine Li, Hirona J. Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi.
-[ArXiV](https://arxiv.org/abs/2305.19472)
+Faeze Brahman, Chandra Bhagavatula, <ins>Valentina Pyatkin</ins>, Jena D. Hwang, Xiang Lorraine Li, Hirona J. Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi. In ICLR.
+[PDF](https://arxiv.org/abs/2305.19472)
 
 ### *Retrieving Texts based on Abstract Descriptions*
 Shauli Ravfogel, <ins>Valentina Pyatkin</ins>, Amir DN Cohen, Avshalom Manevich, Yoav Goldberg.
