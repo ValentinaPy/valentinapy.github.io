@@ -15,7 +15,7 @@ My research focuses on *discourse*, *semantics* and *pragmatics*. My main intere
 
 I am co-organizing the  [the Third Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2024.github.io/), collocated with EACL-2024 in Malta! I also co-organized [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
 
-Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me).
+Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
 
 ### News
