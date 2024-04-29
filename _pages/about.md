@@ -17,24 +17,22 @@ I am co-organizing the  [the Third Workshop on Understanding Implicit and Unders
 
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
+### Awards
+* Oct. 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
+* Feb. 2023: Was awarded a postdoctoral scholarship from the Eric and Wendy Schmidt Foundation.
+* Jan. 2023: Very excited to have been awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)!
+* Jan. 2021: Awarded the Nadav Award for Excellence in Research.
+
 
 ### News
-* April 2024: Invited talk at the UMass NLP Seminar.
-* March 2024: Invited talk at the University of Edinburgh.
-* March 2024: Invited talk at Harvard.
-* March 2024: DAAD sponsored visit to the University of Saarbrücken, the Max Planck Institute for Software Systems and the University of Stuttgart.
-* February 2024: Invited talk at the UBC NLP group.
-* December 2023: Invited talk at Brown/Tübingen.
-* October 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
-* September 2023: Gave a talk at a local Seattle high school on deep learning, LLMs and ethics.
-* September 2023: Gave an invited talk at the KR 2023 workshop on Computational Machine Ethics.
-* May 2023: Paper accepted to ACL 2023!
-* March 2023: [TACL](https://arxiv.org/abs/2304.00815) paper accepted, to be presented at ACL 2023.
-* February 2023: Was awarded a postdoctoral scholarship from the Eric and Wendy Schmidt Foundation.
-* January 2023: Very excited to have been awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)!
-* December 2022: [Preprint](https://arxiv.org/pdf/2212.10409.pdf) of my internship at AI2 is out.
-* November 2022: AI2 Hackathon [Paper](https://arxiv.org/pdf/2210.16407.pdf) accepted at Workshop on Figurative Language Processing at EMNLP 2022.
-* October 2022: [Paper](https://arxiv.org/pdf/2205.11413.pdf) accepted at EMNLP 2022.
-* September 2022: [Paper](https://arxiv.org/pdf/2106.14321.pdf) accepted to TACL.
-* July 2022: Co-organized the UnImplicit workshop at NAACL-2022.
-* June 2022: Started my internship at [AI2 Mosaic](https://mosaic.allenai.org/people)
+* Apr. 2024: Invited talk at the UMass NLP Seminar.
+* Mar. 2024: Invited talk at the University of Edinburgh.
+* Jul. 2022: Co-organized the [UnImplicit workshop](https://unimplicit2024.github.io/) at EACL-2024.
+* Mar. 2024: Invited talk at the [Harvard Efficient ML Seminar](https://sites.google.com/view/harvard-efficient-ml).
+* Mar. 2024: DAAD sponsored visit to the University of Saarbrücken, the Max Planck Institute for Software Systems and the University of Stuttgart.
+* Feb. 2024: Invited talk at the UBC NLP group.
+* Dec. 2023: Invited talk at Brown/Tübingen.
+* Sep. 2023: Gave a talk at a local Seattle high school on deep learning, LLMs and ethics.
+* Sep. 2023: Gave an invited talk at the [KR 2023 workshop on Computational Machine Ethics](https://sites.google.com/view/cme2023/home).
+* Jan. 2023: Invited talk at the [UT Austin Seminar on "Social Implications and Impact of NLP"](https://jessyli.com/courses/lin393_s23).
+* Jul. 2022: Co-organized the [UnImplicit workshop](https://unimplicit2022.github.io/) at NAACL-2022.
