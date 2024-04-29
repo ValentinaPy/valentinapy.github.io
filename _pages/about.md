@@ -13,7 +13,6 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 
 My research focuses on *discourse*, *semantics* and *pragmatics*. My main interest currently lies in question generation and using RL (with human feedback) for natural language generation. I am also interested in underspecified, ambiguous and implicit language and in teaching models how to better deal with such phenomena.
 
-Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
 ### Awards
 * Oct. 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
@@ -34,3 +33,6 @@ Besides this I love rowing (currently at Lake Washington Rowing Club) and going 
 * Sep. 2023: Gave an invited talk at the [KR 2023 workshop on Computational Machine Ethics](https://sites.google.com/view/cme2023/home).
 * Jan. 2023: Invited talk at the [UT Austin Seminar on "Social Implications and Impact of NLP"](https://jessyli.com/courses/lin393_s23).
 * Jul. 2022: Co-organized the [UnImplicit workshop](https://unimplicit2022.github.io/) at NAACL-2022.
+
+### Misc
+Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
