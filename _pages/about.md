@@ -20,7 +20,7 @@ Besides this I love rowing (currently at Lake Washington Rowing Club) and going 
 ### Awards
 * Oct. 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
 * Feb. 2023: Was awarded a postdoctoral scholarship from the Eric and Wendy Schmidt Foundation.
-* Jan. 2023: Very excited to have been awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)!
+* Jan. 2023: Was awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)
 * Jan. 2021: Awarded the Nadav Award for Excellence in Research.
 
 
