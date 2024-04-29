@@ -19,6 +19,10 @@ author_profile: true
 
 ## *2024*
 ---------------	
+### *RewardBench: Evaluating Reward Models for Language Modeling*
+Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi
+[ArXiV](https://arxiv.org/pdf/2403.13787)
+
 ### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
 Paul Röttger, Valentin Hofmann, <ins>Valentina Pyatkin</ins>, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy
 [ArXiV](https://arxiv.org/pdf/2402.16786.pdf)
