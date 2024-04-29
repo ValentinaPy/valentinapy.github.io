@@ -13,8 +13,6 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 
 My research focuses on *discourse*, *semantics* and *pragmatics*. My main interest currently lies in question generation and using RL (with human feedback) for natural language generation. I am also interested in underspecified, ambiguous and implicit language and in teaching models how to better deal with such phenomena.
 
-I am co-organizing the  [the Third Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2024.github.io/), collocated with EACL-2024 in Malta! I also co-organized [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
-
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
 ### Awards
