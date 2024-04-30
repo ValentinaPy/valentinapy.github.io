@@ -24,6 +24,7 @@ My research focuses on *discourse*, *semantics* and *pragmatics*. My main intere
 ### News
 * Apr. 2024: Invited talk at the UMass NLP Seminar.
 * Mar. 2024: Invited talk at the University of Edinburgh.
+* Mar. 2024: Excited to be serving as an Area Chair/Action Editor of ARR.
 * Jul. 2022: Co-organized the [UnImplicit workshop](https://unimplicit2024.github.io/) at EACL-2024.
 * Mar. 2024: Invited talk at the [Harvard Efficient ML Seminar](https://sites.google.com/view/harvard-efficient-ml).
 * Mar. 2024: DAAD sponsored visit to the University of Saarbrücken, the Max Planck Institute for Software Systems and the University of Stuttgart.
