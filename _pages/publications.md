@@ -24,15 +24,15 @@ Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Y
 [ArXiV](https://arxiv.org/pdf/2403.13787)
 
 ### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
-Paul Röttger, Valentin Hofmann, <ins>Valentina Pyatkin</ins>, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy
+Paul Röttger, Valentin Hofmann, <ins>Valentina Pyatkin</ins>, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy. In ACL 2024.
 [ArXiV](https://arxiv.org/pdf/2402.16786.pdf)
 
 ### *OLMo: Accelerating the Science of Language Models*
-Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi
+Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi. In ACL 2024.
 [ArXiV](https://arxiv.org/pdf/2402.00838.pdf?)
 
 ### *Promptly Predicting Structures: The Return of Inference*
-Maitrey Mehta, <ins>Valentina Pyatkin</ins>, Vivek Srikumar
+Maitrey Mehta, <ins>Valentina Pyatkin</ins>, Vivek Srikumar. In NAACL 2024.
 [ArXiV](https://arxiv.org/pdf/2401.06877.pdf)
 
 ## *2023*
