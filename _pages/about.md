@@ -22,6 +22,7 @@ My research focuses on *discourse*, *semantics* and *pragmatics*. My main intere
 
 
 ### News
+* Jun. 2024: Serving as Internal Communication Chair for [ACL 2024](https://2024.aclweb.org/organization/)
 * Apr. 2024: Invited talk at the UMass NLP Seminar.
 * Mar. 2024: Invited talk at the University of Edinburgh.
 * Mar. 2024: Excited to be serving as an Area Chair/Action Editor of ARR.
