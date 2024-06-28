@@ -19,6 +19,15 @@ author_profile: true
 
 ## *2024*
 ---------------	
+
+### *Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback*
+Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, <ins>Valentina Pyatkin</ins>, Nathan Lambert, Noah A Smith, Yejin Choi, Hannaneh Hajishirzi
+[ArXiV](https://arxiv.org/pdf/2406.09279)
+
+### *WILDBENCH: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild*
+Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, <ins>Valentina Pyatkin</ins>, Nouha Dziri, Ronan Le Bras, Yejin Choi
+[ArXiV](https://arxiv.org/pdf/2406.04770)
+
 ### *RewardBench: Evaluating Reward Models for Language Modeling*
 Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi
 [ArXiV](https://arxiv.org/pdf/2403.13787)
