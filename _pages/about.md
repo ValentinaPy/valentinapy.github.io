@@ -36,5 +36,8 @@ My research focuses on *discourse*, *semantics* and *pragmatics*. My main intere
 * Jan. 2023: Invited talk at the [UT Austin Seminar on "Social Implications and Impact of NLP"](https://jessyli.com/courses/lin393_s23).
 * Jul. 2022: Co-organized the [UnImplicit workshop](https://unimplicit2022.github.io/) at NAACL-2022.
 
+### Meetings
+If you would like to set up a meeting with me to chat about things like research, mentorship etc. you can use [this link](https://cal.com/valentinap) to schedule one.
+
 ### Misc
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
