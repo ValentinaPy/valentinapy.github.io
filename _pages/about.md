@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<b>I am on the academic job market this upcoming cycle (2024/2025)!<\b>
+<b>I am on the academic job market this upcoming cycle (2024/2025)!</b>
 
 I am a postdoctoral researcher (and Young Investigator) on the [Mosaic team at AI2](https://mosaic.allenai.org/), with Prof. Yejin Choi, and at the University of Washington.
 I completed my PhD in Natural Language Pocessing at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I also was a visiting PhD student at [UW NLP](https://nlp.washington.edu) and had the pleasure of interning twice at the [Allen Institute for AI](https://allenai.org). I am very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
