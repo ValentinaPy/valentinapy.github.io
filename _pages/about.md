@@ -15,7 +15,7 @@ My research focuses on *discourse*, *semantics* and *pragmatics*. My main intere
 
 
 ### News
-* Jul. 2024: Co-organizing the SoLaR workshop on Socially Responsible Language Modelling Research at NeurIPS 2024.
+* Jul. 2024: Co-organizing the [SoLaR workshop](https://solar-neurips.github.io/) on Socially Responsible Language Modelling Research at NeurIPS 2024.
 * Jun. 2024: Serving as Internal Communication Chair for [ACL 2024](https://2024.aclweb.org/organization/)
 * Apr. 2024: Invited talk at the UMass NLP Seminar.
 * Mar. 2024: Invited talk at the University of Edinburgh.
