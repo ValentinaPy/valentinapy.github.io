@@ -33,6 +33,8 @@ My research focuses on *semantics* and *pragmatics* for Language Models. My main
 * Jul. 2022: Co-organized the [UnImplicit workshop](https://unimplicit2022.github.io/) at NAACL-2022.
 
 ### Awards
+* Aug. 2024: [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786)!
+* Aug. 2024: ACL Theme Paper Award for [OLMo](http://arxiv.org/pdf/2402.00838)!
 * Oct. 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
 * Feb. 2023: Was awarded a postdoctoral scholarship from the Eric and Wendy Schmidt Foundation.
 * Jan. 2023: Was awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)
