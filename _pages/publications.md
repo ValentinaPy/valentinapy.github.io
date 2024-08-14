@@ -19,9 +19,16 @@ author_profile: true
 
 ## *2024*
 ---------------	
+### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
+Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, <ins>Valentina Pyatkin</ins>, Ido Dagan
+[ArXiV](https://arxiv.org/pdf/2408.04246)
+
+### *Self-Directed Synthetic Dialogues and Revisions Technical Report*
+Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, <ins>Valentina Pyatkin</ins>, Louis Castricato
+[ArXiV](https://arxiv.org/pdf/2407.18421)
 
 ### *The Art of Saying No: Contextual Noncompliance in Language Models*
-Faeze Brahman, Sachin Kumar, Vidhisha Balachandran, Pradeep Dasigi, Valentina Pyatkin, Abhilasha Ravichander, Sarah Wiegreffe,
+Faeze Brahman, Sachin Kumar, Vidhisha Balachandran, Pradeep Dasigi, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Sarah Wiegreffe,
 Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi
 [ArXiV](https://nbviewer.org/github/allenai/noncompliance/blob/main/paper.pdf)
 
@@ -42,11 +49,11 @@ Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Y
 [ArXiV](https://arxiv.org/pdf/2405.20967)
 
 ### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
-Paul Röttger, Valentin Hofmann, <ins>Valentina Pyatkin</ins>, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy. *In ACL 2024*.
+Paul Röttger, Valentin Hofmann, <ins>Valentina Pyatkin</ins>, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy. *In ACL 2024*. <u>*Outstanding Paper Award*</u>
 [ArXiV](https://arxiv.org/pdf/2402.16786.pdf)
 
 ### *OLMo: Accelerating the Science of Language Models*
-Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi. *In ACL 2024*.
+Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi. *In ACL 2024*. <u>*Theme Paper Award*</u>
 [ArXiV](https://arxiv.org/pdf/2402.00838.pdf?)
 
 ### *Promptly Predicting Structures: The Return of Inference*
