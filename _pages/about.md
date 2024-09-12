@@ -41,8 +41,8 @@ My research focuses on *semantics* and *pragmatics* for Language Models. My main
 * Jan. 2023: Was awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)
 * Jan. 2021: Awarded the Nadav Award for Excellence in Research.
 
-### Meetings
-If you would like to set up a meeting with me to chat about things like research, mentorship etc. you can use [this link](https://cal.com/valentinap) to schedule one.
+<! -- ### Meetings
+If you would like to set up a meeting with me to chat about things like research, mentorship etc. you can use [this link](https://cal.com/valentinap) to schedule one.--> 
 
 ### Misc
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
