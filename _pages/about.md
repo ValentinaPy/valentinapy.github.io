@@ -17,6 +17,7 @@ My research focuses on *semantics* and *pragmatics* for Language Models. My main
 
 
 ### News
+* I'm attending COLM and will also be a mentor at the [MLR at Penn workshop](https://sites.google.com/view/mlrpenn-mentor/schedule?authuser=0)!
 * 2 paper awards at ACL 2024!
 * Jul. 2024: Co-organizing the [SoLaR workshop](https://solar-neurips.github.io/) on Socially Responsible Language Modelling Research at NeurIPS 2024.
 * Jun. 2024: Serving as Internal Communication Chair for [ACL 2024](https://2024.aclweb.org/organization/)
