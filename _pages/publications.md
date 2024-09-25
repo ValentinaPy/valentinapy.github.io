@@ -20,7 +20,7 @@ author_profile: true
 ## *2024*
 ---------------	
 ### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
-Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, <ins>Valentina Pyatkin</ins>, Ido Dagan
+Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, <ins>Valentina Pyatkin</ins>, Ido Dagan. *In ACL 2024*.
 [ArXiV](https://arxiv.org/pdf/2408.04246)
 
 ### *Self-Directed Synthetic Dialogues and Revisions Technical Report*
@@ -33,7 +33,7 @@ Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin C
 [ArXiV](https://nbviewer.org/github/allenai/noncompliance/blob/main/paper.pdf)
 
 ### *Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback*
-Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, <ins>Valentina Pyatkin</ins>, Nathan Lambert, Noah A Smith, Yejin Choi, Hannaneh Hajishirzi
+Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, <ins>Valentina Pyatkin</ins>, Nathan Lambert, Noah A Smith, Yejin Choi, Hannaneh Hajishirzi.  *In NeurIPS 2024*.
 [ArXiV](https://arxiv.org/pdf/2406.09279)
 
 ### *WILDBENCH: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild*
