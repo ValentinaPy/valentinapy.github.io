@@ -19,6 +19,19 @@ author_profile: true
 
 ## *2024*
 ---------------	
+
+### *Diverging Preferences: When do Annotators Disagree and do Models Know?*
+  Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yejin Choi, Eunsol Choi, Xiang Ren, <ins>Valentina Pyatkin</ins>
+[ArXiV](https://arxiv.org/pdf/2410.14632)
+
+### *SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation*
+Jing-Jing Li,  <ins>Valentina Pyatkin</ins>, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine
+[ArXiV](https://arxiv.org/pdf/2410.16665)
+
+### *Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback*
+Lester James V. Miranda, Yizhong Wang, Yanai Elazar, Sachin Kumar, <ins>Valentina Pyatkin</ins>, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi
+[ArXiV](https://arxiv.org/pdf/2410.19133)
+
 ### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
 Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, <ins>Valentina Pyatkin</ins>, Ido Dagan. *In ACL 2024*.
 [ArXiV](https://arxiv.org/pdf/2408.04246)
