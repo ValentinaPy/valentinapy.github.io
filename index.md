@@ -2,13 +2,13 @@
 layout: home
 ---
 
-
+## bio
 I am a postdoctoral researcher (and Young Investigator) at the [Allen Institute for AI](https://allenai.org) and the University of Washington, advised by Prof. Yejin Choi.
 I completed my PhD in Natural Language Pocessing at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I also was a visiting PhD student at [UW NLP](https://nlp.washington.edu) and had the pleasure of interning twice at the [Allen Institute for AI](https://allenai.org). My work has been awarded an [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786) and the ACL [Best Theme Paper Award](http://arxiv.org/pdf/2402.00838). I am also very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 
 ---
-	<h2 style="text-align:left;">Research</h1>
+## research
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 My research focuses on post-training and the adaptation of Language Models, in order to make them better semantic and pragmatic reasoners. In the past, I worked on question generation, natural language representations, and discourse. I am also interested in underspecified, ambiguous and implicit language and in teaching language models how to better deal with such phenomena. More specifically, my research is centered around:
 <ul>
@@ -20,7 +20,7 @@ My research focuses on post-training and the adaptation of Language Models, in o
 ---
 
 
-	<h2 style="text-align:left;">Awards</h1>
+## awards
 * Aug. 2024: [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786)!
 * Aug. 2024: ACL Theme Paper Award for [OLMo](http://arxiv.org/pdf/2402.00838)!
 * Oct. 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
@@ -30,7 +30,7 @@ My research focuses on post-training and the adaptation of Language Models, in o
 
 ---
 
-## Publications
+## publications
 
 Below is a selection of recent projects; see my [Google Scholar][GS] page for my full publication record.
 
@@ -196,7 +196,7 @@ Ayal Klein, Jonathan Mamou, <ins>Valentina Pyatkin</ins>, Daniela Stepanov, Hang
 
 ---
 
-### Misc
+### misc
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
 ---
