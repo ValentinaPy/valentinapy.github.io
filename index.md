@@ -1,7 +1,11 @@
 ---
 layout: home
 ---
+<b>I am on the academic job market for faculty positions!</b> *Feel free to reach out if you have an opening in your department* .
 
+I am a postdoctoral researcher (and Young Investigator) at the [Allen Institute for AI](https://allenai.org) and the University of Washington, advised by Prof. Yejin Choi.
+I completed my PhD in Natural Language Pocessing at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I also was a visiting PhD student at [UW NLP](https://nlp.washington.edu) and had the pleasure of interning twice at the [Allen Institute for AI](https://allenai.org). My work has been awarded an [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786) and the ACL [Best Theme Paper Award](http://arxiv.org/pdf/2402.00838). I am also very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
+Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 Danaë Metaxa is Raj and Neera Singh Term Assistant Professor at the University of Pennsylvania in the [Computer and Information Science department][penncis], with a secondary appointment in the [Annenberg School for Communication][pennasc]. Along with [Andrew Head][amh], they are the co-founder and co-leader of the [Penn HCI group][pennhci]. 
 
 In their research, Dr. Metaxa studies **bias and representation in algorithmic systems and content**, focusing on high-stakes social settings like politics and employment, and on marginalized groups. Recently, their group has been developing [**sociotechnical auditing**][sta], an algorithm/AI auditing method that combines traditional auditing with user-centered behavioral science interventions, to understand how algorithmic systems and their end users impact each other.
@@ -56,21 +60,3 @@ If you're a student (at Penn or elsewhere) with a question related to my teachin
 [faq]: /faq
 
 ---
-
-### Teaching
-
-**Sp 2024** - [CIS700: Algorithmic Justice][cis700_24]
-
-**Fa 2023** - [CIS412/512: Human-Computer Interaction][cis412]
-
-**Sp 2023** - [CIS700: Algorithmic Justice][cis700_23]
-
-**Fa 2022** - CIS399: Human-Computer Interaction
-
-**Sp 2021** - [CS347: Human-Computer Interaction Research][cs347] (co-taught with Parastoo Abtahi)
-
-[cis700_24]:https://docs.google.com/spreadsheets/d/1kdrDQTz_6gQfD3v3UMSMkoAS2DanxyZDTqcP59C024o/edit#gid=1882189647
-[cis700_23]:https://docs.google.com/spreadsheets/d/1YltJ1qnpPjovlEPOut8ctjXt_kyHSEWfpcX8lAddmKI/edit#gid=565474215
-[cis412]: http://emoneil.github.io/cis3990/
-[cs347]: http://cs347.stanford.edu
-
