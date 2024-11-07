@@ -28,11 +28,6 @@ My research focuses on post-training and the adaptation of Language Models, in o
 
 ---
 
-### Misc
-Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
-
----
-
 ## Publications
 
 Below is a selection of recent projects; see my [Google Scholar][GS] page for my full publication record.
@@ -196,5 +191,10 @@ Ayal Klein, Jonathan Mamou, <ins>Valentina Pyatkin</ins>, Daniela Stepanov, Hang
 \* : Equal contribution.
 
 [GS]: https://scholar.google.com/citations?user=E9EgKkMAAAAJ&hl=en
+
+---
+
+### Misc
+Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
 ---
