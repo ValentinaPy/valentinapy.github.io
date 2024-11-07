@@ -8,7 +8,7 @@ I completed my PhD in Natural Language Pocessing at the [NLP lab of Bar Ilan Uni
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 
 ---
-### Research
+	<h2 style="text-align:left;">Research</h1>
 <div style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
 My research focuses on post-training and the adaptation of Language Models, in order to make them better semantic and pragmatic reasoners. In the past, I worked on question generation, natural language representations, and discourse. I am also interested in underspecified, ambiguous and implicit language and in teaching language models how to better deal with such phenomena. More specifically, my research is centered around:
 <ul>
@@ -18,7 +18,9 @@ My research focuses on post-training and the adaptation of Language Models, in o
 </ul>
 </div>
 ---
-### Awards
+
+
+	<h2 style="text-align:left;">Awards</h1>
 * Aug. 2024: [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786)!
 * Aug. 2024: ACL Theme Paper Award for [OLMo](http://arxiv.org/pdf/2402.00838)!
 * Oct. 2023: Was selected as a [DAAD AInet fellow](https://www.daad.de/en/the-daad/postdocnet/)
