@@ -28,8 +28,6 @@ My research focuses on post-training and the <b>adaptation of Language Models</b
 * Jan. 2021: Awarded the Nadav Award for Excellence in Research.
 
 ---
-Sure, here is the full publication list in markdown format:
-
 ## Publications
 
 Below is a selection of my recent publications; for my full publication record, please see my [Google Scholar][GS] page.
@@ -48,6 +46,10 @@ Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dzir
 #### *Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback*
 Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valentina Pyatkin**, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi  
 [ArXiV](https://arxiv.org/pdf/2410.19133)
+
+#### *Superlatives in Context: Modeling the Implicit Semantics of Superlatives*
+**Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty  
+[ArXiV](https://arxiv.org/pdf/2405.20967)
 
 #### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
 Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan
@@ -74,10 +76,6 @@ Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichan
 #### *RewardBench: Evaluating Reward Models for Language Modeling*
 Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi  
 [ArXiV](https://arxiv.org/pdf/2403.13787)
-
-#### *Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames*
-**Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty  
-[ArXiV](https://arxiv.org/pdf/2405.20967)
 
 #### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
 Paul Röttger\*, Valentin Hofmann\*, **Valentina Pyatkin**, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy  
