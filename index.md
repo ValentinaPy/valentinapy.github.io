@@ -86,7 +86,7 @@ Paul Röttger\*, Valentin Hofmann\*, **Valentina Pyatkin**, Musashi Hinck, Hanna
 #### *OLMo: Accelerating the Science of Language Models*
 Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, **Valentina Pyatkin**, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi
 *In ACL 2024*  
-⭐*Theme Paper Award*⭐  
+⭐*Best Theme Paper Award*⭐  
 [ArXiV](https://arxiv.org/pdf/2402.00838.pdf?)
 
 #### *Promptly Predicting Structures: The Return of Inference*
