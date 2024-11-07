@@ -46,7 +46,7 @@ Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dzir
 [ArXiV](https://arxiv.org/pdf/2410.16665)  
 
 #### *Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback*
-Lester James V. Miranda, Yizhong Wang, Yanai Elazar, Sachin Kumar, **Valentina Pyatkin**, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi  
+Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valentina Pyatkin**, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi  
 [ArXiV](https://arxiv.org/pdf/2410.19133)
 
 #### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
@@ -59,7 +59,7 @@ Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, **Valentina Py
 [ArXiV](https://arxiv.org/pdf/2407.18421)
 
 #### *The Art of Saying No: Contextual Noncompliance in Language Models*
-Faeze Brahman, Sachin Kumar, Vidhisha Balachandran, Pradeep Dasigi, **Valentina Pyatkin**, Abhilasha Ravichander, Sarah Wiegreffe, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi  
+Faeze Brahman\*, Sachin Kumar\*, Vidhisha Balachandran, Pradeep Dasigi, **Valentina Pyatkin**, Abhilasha Ravichander, Sarah Wiegreffe, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi  
 [ArXiV](https://nbviewer.org/github/allenai/noncompliance/blob/main/paper.pdf)
 
 #### *Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback*
@@ -80,7 +80,7 @@ Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen L
 [ArXiV](https://arxiv.org/pdf/2405.20967)
 
 #### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
-Paul Röttger, Valentin Hofmann, **Valentina Pyatkin**, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy  
+Paul Röttger\*, Valentin Hofmann\*, **Valentina Pyatkin**, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy  
 *In ACL 2024*  
 ⭐*Outstanding Paper Award*⭐  
 [ArXiV](https://arxiv.org/pdf/2402.16786.pdf)
@@ -100,7 +100,7 @@ Maitrey Mehta, **Valentina Pyatkin**, Vivek Srikumar
 ---------------
 
 #### *Camels in a Changing Climate: Enhancing LM Adaptation with TÜLU 2*
-Hamish Ivison, Yizhong Wang, **Valentina Pyatkin**, Nathan Lambert, Matthew Peters, Pradeep Dasigi, Joel Jang, David Wadden, Noah A. Smith, Iz Beltagy, Hannaneh Hajishirzi  
+Hamish Ivison\*, Yizhong Wang\*, **Valentina Pyatkin**, Nathan Lambert, Matthew Peters, Pradeep Dasigi, Joel Jang, David Wadden, Noah A. Smith, Iz Beltagy, Hannaneh Hajishirzi  
 [ArXiV](https://arxiv.org/pdf/2311.10702.pdf)
 
 #### *" You Are An Expert Linguistic Annotator": Limits of LLMs as Analyzers of Abstract Meaning Representation*
