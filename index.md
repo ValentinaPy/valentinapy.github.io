@@ -35,6 +35,10 @@ Below is a selection of my recent publications; for my full publication record, 
 ### 2024
 ---------------
 
+#### *TÜLU 3: Pushing Frontiers in Open Language Model Post-Training*
+ **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi 
+[ArXiV](https://allenai.org/papers/tulu-3-report.pdf)
+
 #### *Diverging Preferences: When do Annotators Disagree and do Models Know?*
 Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yejin Choi, Eunsol Choi, Xiang Ren, **Valentina Pyatkin**  
 [ArXiV](https://arxiv.org/pdf/2410.14632)
