@@ -191,6 +191,6 @@ Ayal Klein, Jonathan Mamou, **Valentina Pyatkin**, Daniela Stepanov, Hangfeng He
 ---
 
 ### Misc
-Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
+Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". I think that Italian Neorealism produced some of the most beautiful movies. My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
 ---
