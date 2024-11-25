@@ -36,66 +36,62 @@ Below is a selection of my recent publications; for my full publication record, 
 ---------------
 
 #### *TÜLU 3: Pushing Frontiers in Open Language Model Post-Training*
- **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi. 
-[ArXiV](https://allenai.org/papers/tulu-3-report.pdf)
+ **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi.   
+📄 [Paper](https://allenai.org/papers/tulu-3-report.pdf)
 
 #### *Diverging Preferences: When do Annotators Disagree and do Models Know?*
-Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yejin Choi, Eunsol Choi, Xiang Ren, **Valentina Pyatkin**  
-[ArXiV](https://arxiv.org/pdf/2410.14632)
+Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yejin Choi, Eunsol Choi, Xiang Ren, **Valentina Pyatkin**.    
+📄 [Paper](https://arxiv.org/pdf/2410.14632)
 
 #### *SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation*
-Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine  
-[ArXiV](https://arxiv.org/pdf/2410.16665)  
+Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine.    
+📄 [Paper](https://arxiv.org/pdf/2410.16665)  
 
 #### *Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback*
-Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valentina Pyatkin**, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi  
-[ArXiV](https://arxiv.org/pdf/2410.19133)
+Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valentina Pyatkin**, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi.    
+📄 [Paper](https://arxiv.org/pdf/2410.19133)
 
 #### *Superlatives in Context: Modeling the Implicit Semantics of Superlatives*
-**Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty  
-[ArXiV](https://arxiv.org/pdf/2405.20967)
+**Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty.    
+📄 [Paper](https://arxiv.org/pdf/2405.20967)
 
 #### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
 Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan.  
 🎓 In: **ACL 2024** | 📄 [Paper](https://arxiv.org/pdf/2408.04246)
 
 #### *Self-Directed Synthetic Dialogues and Revisions Technical Report*
-Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, **Valentina Pyatkin**, Louis Castricato  
-[ArXiV](https://arxiv.org/pdf/2407.18421)
+Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, **Valentina Pyatkin**, Louis Castricato.    
+📄 [Paper](https://arxiv.org/pdf/2407.18421)
 
 #### *The Art of Saying No: Contextual Noncompliance in Language Models*
-Faeze Brahman\*, Sachin Kumar\*, Vidhisha Balachandran, Pradeep Dasigi, **Valentina Pyatkin**, Abhilasha Ravichander, Sarah Wiegreffe, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi  
-[ArXiV](https://nbviewer.org/github/allenai/noncompliance/blob/main/paper.pdf)
+Faeze Brahman\*, Sachin Kumar\*, Vidhisha Balachandran, Pradeep Dasigi, **Valentina Pyatkin**, Abhilasha Ravichander, Sarah Wiegreffe, Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi.    
+🎓 In: **NeurIPS 2024** | 📄 [Paper](https://nbviewer.org/github/allenai/noncompliance/blob/main/paper.pdf)
 
 #### *Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback*
-Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, **Valentina Pyatkin**, Nathan Lambert, Noah A Smith, Yejin Choi, Hannaneh Hajishirzi
-*In NeurIPS 2024*  
-[ArXiV](https://arxiv.org/pdf/2406.09279)
+Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, **Valentina Pyatkin**, Nathan Lambert, Noah A Smith, Yejin Choi, Hannaneh Hajishirzi.  
+🎓 In: **NeurIPS 2024** | 📄 [Paper](https://arxiv.org/pdf/2406.09279)
 
 #### *WILDBENCH: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild*
 Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, **Valentina Pyatkin**, Nouha Dziri, Ronan Le Bras, Yejin Choi  
 [ArXiV](https://arxiv.org/pdf/2406.04770)
 
 #### *RewardBench: Evaluating Reward Models for Language Modeling*
-Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi  
-[ArXiV](https://arxiv.org/pdf/2403.13787)
+Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi.    
+📄 [Paper](https://arxiv.org/pdf/2403.13787)
 
 #### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
-Paul Röttger\*, Valentin Hofmann\*, **Valentina Pyatkin**, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy  
-*In ACL 2024*  
+Paul Röttger\*, Valentin Hofmann\*, **Valentina Pyatkin**, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy.    
+🎓 In: **ACL 2024** | 📄 [Paper](https://arxiv.org/pdf/2402.16786.pdf)  
 ⭐*Outstanding Paper Award*⭐  
-[ArXiV](https://arxiv.org/pdf/2402.16786.pdf)
 
 #### *OLMo: Accelerating the Science of Language Models*
-Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, **Valentina Pyatkin**, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi
-*In ACL 2024*  
+Dirk Groeneveld, Iz Beltagy, Pete Walsh, Akshita Bhagia, Rodney Kinney, Oyvind Tafjord, Ananya Harsh Jha, Hamish Ivison, Ian Magnusson, Yizhong Wang, Shane Arora, David Atkinson, Russell Authur, Khyathi Raghavi Chandu, Arman Cohan, Jennifer Dumas, Yanai Elazar, Yuling Gu, Jack Hessel, Tushar Khot, William Merrill, Jacob Morrison, Niklas Muennighoff, Aakanksha Naik, Crystal Nam, Matthew E Peters, **Valentina Pyatkin**, Abhilasha Ravichander, Dustin Schwenk, Saurabh Shah, Will Smith, Emma Strubell, Nishant Subramani, Mitchell Wortsman, Pradeep Dasigi, Nathan Lambert, Kyle Richardson, Luke Zettlemoyer, Jesse Dodge, Kyle Lo, Luca Soldaini, Noah A Smith, Hannaneh Hajishirzi.  
+🎓 In: **ACL 2024** | 📄 [Paper](https://arxiv.org/pdf/2402.00838.pdf?) 
 ⭐*Best Theme Paper Award*⭐  
-[ArXiV](https://arxiv.org/pdf/2402.00838.pdf?)
 
 #### *Promptly Predicting Structures: The Return of Inference*
-Maitrey Mehta, **Valentina Pyatkin**, Vivek Srikumar
-*In NAACL 2024*  
-[ArXiV](https://arxiv.org/pdf/2401.06877.pdf)
+Maitrey Mehta, **Valentina Pyatkin**, Vivek Srikumar.  
+🎓 In: **NAACL 2024** | 📄 [Paper](https://arxiv.org/pdf/2401.06877.pdf)
 
 ### 2023
 ---------------
