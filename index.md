@@ -55,8 +55,9 @@ Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valenti
 **Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty  
 [ArXiV](https://arxiv.org/pdf/2405.20967)
 
-# Explicating the Implicit: Argument Detection Beyond Sentence Boundaries
+#### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
 Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan.
+
 **ACL 2024** | [Paper](https://arxiv.org/pdf/2408.04246)
 
 #### *Self-Directed Synthetic Dialogues and Revisions Technical Report*
