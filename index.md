@@ -97,110 +97,92 @@ Maitrey Mehta, **Valentina Pyatkin**, Vivek Srikumar.
 ---------------
 
 #### *Camels in a Changing Climate: Enhancing LM Adaptation with TÜLU 2*
-Hamish Ivison\*, Yizhong Wang\*, **Valentina Pyatkin**, Nathan Lambert, Matthew Peters, Pradeep Dasigi, Joel Jang, David Wadden, Noah A. Smith, Iz Beltagy, Hannaneh Hajishirzi  
-[ArXiV](https://arxiv.org/pdf/2311.10702.pdf)
+Hamish Ivison\*, Yizhong Wang\*, **Valentina Pyatkin**, Nathan Lambert, Matthew Peters, Pradeep Dasigi, Joel Jang, David Wadden, Noah A. Smith, Iz Beltagy, Hannaneh Hajishirzi.    
+📄 [Paper](https://arxiv.org/pdf/2311.10702.pdf)
 
 #### *" You Are An Expert Linguistic Annotator": Limits of LLMs as Analyzers of Abstract Meaning Representation*
-Allyson Ettinger, Jena D Hwang, **Valentina Pyatkin**, Chandra Bhagavatula, Yejin Choi
-*In EMNLP Findings*  
-[PDF](https://arxiv.org/pdf/2310.17793.pdf)
+Allyson Ettinger, Jena D Hwang, **Valentina Pyatkin**, Chandra Bhagavatula, Yejin Choi.  
+🎓 In: **EMNLP Findings** | 📄 [Paper](https://arxiv.org/pdf/2310.17793.pdf)
 
 #### *What Makes it Ok to Set a Fire? Iterative Self-distillation of Contexts and Rationales for Disambiguating Defeasible Social and Moral Situations*
-Kavel Rao, Liwei Jiang, **Valentina Pyatkin**, Yuling Gu, Niket Tandon, Nouha Dziri, Faeze Brahman, Yejin Choi
-*In EMNLP Findings*  
-[PDF](https://arxiv.org/pdf/2310.15431)
+Kavel Rao, Liwei Jiang, **Valentina Pyatkin**, Yuling Gu, Niket Tandon, Nouha Dziri, Faeze Brahman, Yejin Choi.  
+🎓 In: **EMNLP Findings** | 📄 [Paper](https://arxiv.org/pdf/2310.15431)
 
 #### *Phenomenal Yet Puzzling: Testing Inductive Reasoning Capabilities of Language Models with Hypothesis Refinement*
-Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, **Valentina Pyatkin**, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren
-*In ICLR*  
-[PDF](https://arxiv.org/pdf/2310.08559)
+Linlu Qiu, Liwei Jiang, Ximing Lu, Melanie Sclar, **Valentina Pyatkin**, Chandra Bhagavatula, Bailin Wang, Yoon Kim, Yejin Choi, Nouha Dziri, Xiang Ren.  
+🎓 In: **ICLR** | 📄 [Paper](https://arxiv.org/pdf/2310.08559)
 
 #### *Value Kaleidoscope: Engaging AI with Pluralistic Human Values, Rights, and Duties*
-Taylor Sorensen, Liwei Jiang, Jena Hwang, Sydney Levine, **Valentina Pyatkin**, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi
-*In AAAI*  
-[PDF](https://arxiv.org/abs/2305.19472)
+Taylor Sorensen, Liwei Jiang, Jena Hwang, Sydney Levine, **Valentina Pyatkin**, Peter West, Nouha Dziri, Ximing Lu, Kavel Rao, Chandra Bhagavatula, Maarten Sap, John Tasioulas, Yejin Choi.  
+🎓 In: **AAAI** | 📄 [Paper](https://arxiv.org/abs/2305.19472)
 
 #### *PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning*
-Faeze Brahman, Chandra Bhagavatula, **Valentina Pyatkin**, Jena D. Hwang, Xiang Lorraine Li, Hirona J. Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi
-*In ICLR*  
-[PDF](https://arxiv.org/abs/2305.19472)
+Faeze Brahman, Chandra Bhagavatula, **Valentina Pyatkin**, Jena D. Hwang, Xiang Lorraine Li, Hirona J. Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi.  
+🎓 In: **ICLR** | 📄 [Paper](https://arxiv.org/abs/2305.19472)
 
 #### *Retrieving Texts based on Abstract Descriptions*
-Shauli Ravfogel, **Valentina Pyatkin**, Amir DN Cohen, Avshalom Manevich, Yoav Goldberg
-*In COLM*  
-[ArXiV](https://arxiv.org/pdf/2305.12517.pdf)
+Shauli Ravfogel, **Valentina Pyatkin**, Amir DN Cohen, Avshalom Manevich, Yoav Goldberg.  
+🎓 In: **COLM 2024** | 📄 [Paper](https://arxiv.org/pdf/2305.12517.pdf)
 
 #### *Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design*
-**Valentina Pyatkin**, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg
-*In TACL*  
-[PDF](https://arxiv.org/abs/2304.00815)
+**Valentina Pyatkin**, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg.  
+🎓 In: **TACL** | 📄 [Paper](https://arxiv.org/abs/2304.00815)
 
 #### *ClarifyDelphi: Reinforced Clarification Questions with Defeasibility Rewards for Social and Moral Situations*
-**Valentina Pyatkin**, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula
-*In ACL*  
-[PDF](https://arxiv.org/pdf/2212.10409.pdf)
+**Valentina Pyatkin**, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula.  
+🎓 In: **ACL** | 📄 [Paper](https://arxiv.org/pdf/2212.10409.pdf)
 
 #### *Revisiting Sentence Union Generation as a Testbed for Text Consolidation*
-Eran Hirsch, **Valentina Pyatkin**, Ruben Wolhandler, Avi Caciularu, Asi Shefer, Ido Dagan
-*In ACL Findings*  
-[PDF](https://arxiv.org/pdf/2305.15605)
+Eran Hirsch, **Valentina Pyatkin**, Ruben Wolhandler, Avi Caciularu, Asi Shefer, Ido Dagan.  
+🎓 In: **ACL Findings** | 📄 [Paper](https://arxiv.org/pdf/2305.15605)
 
 ### 2022
 ---------------
 
 #### *Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE*
-Gu, Yuling, Yao Fu, **Valentina Pyatkin**, Ian H. Magnusson, Bhavana Dalvi and Peter Clark
-*In Proceedings of the Workshop on Figurative Language Processing at EMNLP 2022*  
-[PDF](https://arxiv.org/pdf/2210.16407.pdf)
+Gu, Yuling, Yao Fu, **Valentina Pyatkin**, Ian H. Magnusson, Bhavana Dalvi and Peter Clark.  
+🎓 In: **Proceedings of the Workshop on Figurative Language Processing at EMNLP 2022** | 📄 [Paper](https://arxiv.org/pdf/2210.16407.pdf)
 
 #### *QASem Parsing: Text-to-text Modeling of QA-based Semantics*
-Ayal Klein, Eran Hirsch, Ron Eliav, **Valentina Pyatkin**, Avi Caciularu, Ido Dagan
-*In EMNLP 2022*  
-[PDF](https://arxiv.org/pdf/2205.11413.pdf)
+Ayal Klein, Eran Hirsch, Ron Eliav, **Valentina Pyatkin**, Avi Caciularu, Ido Dagan.  
+🎓 In: **EMNLP** | 📄 [Paper](https://arxiv.org/pdf/2205.11413.pdf)
 
 #### *Design Choices in Crowdsourcing Discourse Relation Annotations: The Effect of Worker Selection and Training*
-Merel C.J. Schoman, **Valentina Pyatkin**, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera Demberg
-*In LREC 2022*  
-[PDF](https://aclanthology.org/2022.lrec-1.231.pdf)
+Merel C.J. Schoman, **Valentina Pyatkin**, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera Demberg.  
+🎓 In: **LREC** | 📄 [Paper](https://aclanthology.org/2022.lrec-1.231.pdf)
 
 #### *Draw Me a Flower: Grounding Formal Abstract Structures Stated in Informal Natural Language*
-Royi Lachmy, **Valentina Pyatkin**, Avshalom Manevich, Reut Tsarfaty
-*In TACL*  
-[PDF](https://arxiv.org/pdf/2106.14321.pdf)
+Royi Lachmy, **Valentina Pyatkin**, Avshalom Manevich, Reut Tsarfaty.  
+🎓 In: **TACL** | 📄 [Paper](https://arxiv.org/pdf/2106.14321.pdf)
 
 ### 2021
 ---------------
 
 #### *Asking It All: Generating Contextualized Questions for any Semantic Role*
-**Valentina Pyatkin\***, Paul Roit\*, Julian Michael, Reut Tsarfaty, Yoav Goldberg, Ido Dagan
-*In EMNLP 2021*  
-[PDF](https://aclanthology.org/2021.emnlp-main.108.pdf)
+**Valentina Pyatkin\***, Paul Roit\*, Julian Michael, Reut Tsarfaty, Yoav Goldberg, Ido Dagan.  
+🎓 In: **EMNLP** | 📄 [Paper](https://aclanthology.org/2021.emnlp-main.108.pdf)
 
 #### *The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing*
-**Valentina Pyatkin\***, Shoval Sadde\*, Aynat Rubinstein, Paul Portner, Reut Tsarfaty
-*In ACL 2021*  
-[PDF](https://aclanthology.org/2021.acl-long.77.pdf)
+**Valentina Pyatkin\***, Shoval Sadde\*, Aynat Rubinstein, Paul Portner, Reut Tsarfaty.  
+🎓 In: **ACL** | 📄 [Paper](https://aclanthology.org/2021.acl-long.77.pdf)
 
 ### 2020
 ---------------
 
 #### *QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines*
-**Valentina Pyatkin**, Ayal Klein, Reut Tsarfaty, Ido Dagan
-*In EMNLP 2020*  
-[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.224.pdf)
+**Valentina Pyatkin**, Ayal Klein, Reut Tsarfaty, Ido Dagan.  
+🎓 In: **EMNLP** | 📄 [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.224.pdf)
 
 #### *QA-Nom: Question-Answer driven SRL for Nominalizations*
-Ayal Klein, Jonathan Mamou, **Valentina Pyatkin**, Daniela Stepanov, Hangfeng He, Dan Roth, Luke Zettlemoyer, Ido Dagan
-*In COLING 2020*  
-[PDF](https://www.aclweb.org/anthology/2020.coling-main.274.pdf)
+Ayal Klein, Jonathan Mamou, **Valentina Pyatkin**, Daniela Stepanov, Hangfeng He, Dan Roth, Luke Zettlemoyer, Ido Dagan.  
+🎓 In: **COLING** | 📄 [Paper](https://www.aclweb.org/anthology/2020.coling-main.274.pdf)
 
 ### 2017
 ---------------
 
 #### *Discourse Relations and Conjoined VPs: Automated Sense Recognition*
-**Valentina Pyatkin**, Bonnie Webber
-*In EACL SRW 2017*  
-[PDF](https://www.aclweb.org/anthology/E17-4004.pdf)
+**Valentina Pyatkin**, Bonnie Webber.  
+🎓 In: **EACL SRW 2017** | 📄 [Paper](https://www.aclweb.org/anthology/E17-4004.pdf)
 
 \* : Equal contribution.
 
