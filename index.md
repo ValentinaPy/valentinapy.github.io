@@ -36,7 +36,7 @@ Below is a selection of my recent publications; for my full publication record, 
 ---------------
 
 #### *TÜLU 3: Pushing Frontiers in Open Language Model Post-Training*
- **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi 
+ **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi. 
 [ArXiV](https://allenai.org/papers/tulu-3-report.pdf)
 
 #### *Diverging Preferences: When do Annotators Disagree and do Models Know?*
@@ -55,10 +55,9 @@ Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valenti
 **Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty  
 [ArXiV](https://arxiv.org/pdf/2405.20967)
 
-#### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
-Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan
-*In ACL 2024*  
-[ArXiV](https://arxiv.org/pdf/2408.04246)
+# Explicating the Implicit: Argument Detection Beyond Sentence Boundaries
+Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan.
+**ACL 2024** | [Paper](https://arxiv.org/pdf/2408.04246)
 
 #### *Self-Directed Synthetic Dialogues and Revisions Technical Report*
 Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, **Valentina Pyatkin**, Louis Castricato  
