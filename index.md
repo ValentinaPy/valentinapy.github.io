@@ -57,8 +57,7 @@ Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valenti
 
 #### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
 Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan.
-
-**ACL 2024** | [Paper](https://arxiv.org/pdf/2408.04246)
+🎓 In: **ACL 2024** | 📄 [Paper](https://arxiv.org/pdf/2408.04246)
 
 #### *Self-Directed Synthetic Dialogues and Revisions Technical Report*
 Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, **Valentina Pyatkin**, Louis Castricato  
