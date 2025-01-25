@@ -9,6 +9,13 @@ blurb: |
 Below is a selection of recent projects; see my [Google Scholar][GS] page for my full publication record.
 
 
+## *2025*
+---------------	
+
+### *2 OLMo 2 Furious*
+  Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher Clark, Pradeep Dasigi, Nouha Dziri, Michal Guerquin, Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester James V Miranda, Jacob Morrison, Tyler Murray, Crystal Nam, <ins>Valentina Pyatkin</ins>, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden, Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A Smith, Hannaneh Hajishirzi
+[ArXiV](https://arxiv.org/pdf/2501.00656)
+
 ## *2024*
 ---------------	
 
@@ -34,7 +41,7 @@ Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, <ins>Valentina
 
 ### *The Art of Saying No: Contextual Noncompliance in Language Models*
 Faeze Brahman, Sachin Kumar, Vidhisha Balachandran, Pradeep Dasigi, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Sarah Wiegreffe,
-Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi
+Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi.  *In NeurIPS 2024*.
 [ArXiV](https://nbviewer.org/github/allenai/noncompliance/blob/main/paper.pdf)
 
 ### *Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback*
@@ -42,15 +49,15 @@ Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, <ins>Valentina Pyatkin</ins
 [ArXiV](https://arxiv.org/pdf/2406.09279)
 
 ### *WILDBENCH: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild*
-Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, <ins>Valentina Pyatkin</ins>, Nouha Dziri, Ronan Le Bras, Yejin Choi
+Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, <ins>Valentina Pyatkin</ins>, Nouha Dziri, Ronan Le Bras, Yejin Choi.  *In ICLR 2025*.
 [ArXiV](https://arxiv.org/pdf/2406.04770)
 
 ### *RewardBench: Evaluating Reward Models for Language Modeling*
-Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi
+Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi.  *In NAACL Findings 2025*.
 [ArXiV](https://arxiv.org/pdf/2403.13787)
 
 ### *Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames*
-<ins>Valentina Pyatkin</ins>, Bonnie Webber, Ido Dagan, Reut Tsarfaty
+<ins>Valentina Pyatkin</ins>, Bonnie Webber, Ido Dagan, Reut Tsarfaty.  *In NAACL 2025*.
 [ArXiV](https://arxiv.org/pdf/2405.20967)
 
 ### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
