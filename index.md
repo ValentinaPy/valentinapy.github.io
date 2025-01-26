@@ -11,7 +11,7 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 ## Research
 My research focuses on Post-Training and the <b>Adaptation of Language Models</b>, for example to make them better semantic and pragmatic reasoners. In the past, I worked on question generation, natural language representations, and discourse. I am also interested in underspecified, ambiguous and implicit language and in teaching language models how to better deal with such phenomena. More specifically, my research is centered around:
 <ul>
-  <li><b>Post-Training and LM Adaptation:</b> Finding optimal recipes for LM post-training - from (synthetic) preference data to reinforcement learning algorithms.</li>
+  <li><b>Post-Training and LM Adaptation:</b> Finding optimal recipes for LM post-training - from generating (synthetic) preference data to developing reinforcement learning algorithms.</li>
    <ul>
       <li>I am a core contributor on the Tulu and <a href="https://github.com/allenai/open-instruct">Open-Instruct</a> project, where develop post-training pipelines consisting of supervised finetuning, direct preference optimization, and reinforcement learning with verifiable rewards.</li>
       <li>I have worked on the open science of language models, by contributing to <a href="https://arxiv.org/pdf/2402.00838.pdf?">OLMo</a> and <a href="https://arxiv.org/pdf/2501.00656">OLMo2</a>.</li>
