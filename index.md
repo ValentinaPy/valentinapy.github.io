@@ -32,7 +32,7 @@ My research focuses on Post-Training and the <b>Adaptation of Language Models</b
 
 Below is a selection of my recent publications; for my full publication record, please see my [Google Scholar][GS] page.
 
-## *2025*
+### *2025*
 ---------------	
 
 #### *2 OLMo 2 Furious*
