@@ -16,8 +16,8 @@ My research focuses on Post-Training and the <b>Adaptation of Language Models</b
       <li>I am a core contributor on the Tulu and Open-Instruct project, where develop post-training pipelines consisting of supervised finetuning, direct preference optimization, and reinforcement learning with verifiable rewards.</li>
       <li>I have worked on the open science of language models, by contributing to <a href="https://arxiv.org/pdf/2402.00838.pdf?">OLMo</a> and <a href="https://arxiv.org/pdf/2501.00656">OLMo2</a>.</li>
     </ul>
-  <li><b>Natural Language Understanding:</b> Deeper semantic reasoning across a broader discourse and better handling of ambiguity and underspecification for LLMs.</li>
-  <li><b>Critical Evaluation:</b> Testing LMs' abilities to perform pragmatic inferences, extracting their implicit values, and evaluating Reward Models.</li>
+  <li><b>Natural Language Understanding:</b> Improving LMs' semantic reasoning across a broader discourse and making them robust for handling ambiguous and underspecified inputs.</li>
+  <li><b>Critical Evaluation:</b> Evaluating Reward Models (<a href="https://github.com/allenai/reward-bench">RewardBench</a>), LMs' values and LMs' abilities to draw pragmatic inferences.</li>
 </ul>
 
 ---
