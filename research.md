@@ -6,7 +6,7 @@ blurb: |
 
 ## Publications
 
-Below is a selection of recent projects; see my [Google Scholar][GS] page for my full publication record.
+Below is a selection of recent projects; see also my [Google Scholar][GS] page for my full publication record.
 
 ## *2025*
 ---------------	
