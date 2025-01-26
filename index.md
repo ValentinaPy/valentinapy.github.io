@@ -11,7 +11,7 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 ## Research
 My research focuses on Post-Training and the <b>Adaptation of Language Models</b>, for example to make them better semantic and pragmatic reasoners. In the past, I worked on question generation, natural language representations, and discourse. I am also interested in underspecified, ambiguous and implicit language and in teaching language models how to better deal with such phenomena. More specifically, my research is centered around:
 <ul>
-  <li><b>Post-Training and LM Adaptation:</b> Finding optimal recipes for LM post-training - from analyzing preference data to algorithms.</li>
+  <li><b>Post-Training and LM Adaptation:</b> Finding optimal recipes for LM post-training - from synthetic preference data to reinforcement learning algorithms.</li>
   <li><b>Natural Language Understanding:</b> Deeper semantic reasoning across a broader discourse and better handling of ambiguity and underspecification for LLMs.</li>
   <li><b>Critical Evaluation:</b> Testing LMs' abilities to perform pragmatic inferences, extracting their implicit values, and evaluating Reward Models.</li>
 </ul>
