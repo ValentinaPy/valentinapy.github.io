@@ -9,13 +9,6 @@ blurb: |
 Below is a selection of recent projects; see my [Google Scholar][GS] page for my full publication record.
 
 
-## *2025*
----------------	
-
-### *2 OLMo 2 Furious*
-  Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher Clark, Pradeep Dasigi, Nouha Dziri, Michal Guerquin, Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester James V Miranda, Jacob Morrison, Tyler Murray, Crystal Nam, <ins>Valentina Pyatkin</ins>, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden, Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A Smith, Hannaneh Hajishirzi
-[ArXiV](https://arxiv.org/pdf/2501.00656)
-
 ## *2024*
 ---------------	
 
