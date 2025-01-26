@@ -34,7 +34,7 @@ Nathan Lambert, Hailey Schoelkopf, Aaron Gokaslan, Luca Soldaini, <ins>Valentina
 
 ### *The Art of Saying No: Contextual Noncompliance in Language Models*
 Faeze Brahman, Sachin Kumar, Vidhisha Balachandran, Pradeep Dasigi, <ins>Valentina Pyatkin</ins>, Abhilasha Ravichander, Sarah Wiegreffe,
-Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi.  *In NeurIPS 2024*.
+Nouha Dziri, Khyathi Chandu, Jack Hessel, Yulia Tsvetkov, Noah A. Smith, Yejin Choi, Hannaneh Hajishirzi
 [ArXiV](https://nbviewer.org/github/allenai/noncompliance/blob/main/paper.pdf)
 
 ### *Unpacking DPO and PPO: Disentangling Best Practices for Learning from Preference Feedback*
@@ -42,15 +42,15 @@ Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, <ins>Valentina Pyatkin</ins
 [ArXiV](https://arxiv.org/pdf/2406.09279)
 
 ### *WILDBENCH: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild*
-Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, <ins>Valentina Pyatkin</ins>, Nouha Dziri, Ronan Le Bras, Yejin Choi.  *In ICLR 2025*.
+Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, <ins>Valentina Pyatkin</ins>, Nouha Dziri, Ronan Le Bras, Yejin Choi
 [ArXiV](https://arxiv.org/pdf/2406.04770)
 
 ### *RewardBench: Evaluating Reward Models for Language Modeling*
-Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi.  *In NAACL Findings 2025*.
+Nathan Lambert, <ins>Valentina Pyatkin</ins>, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi
 [ArXiV](https://arxiv.org/pdf/2403.13787)
 
 ### *Superlatives in Context: Explicit and Implicit Domain Restrictions for Superlative Frames*
-<ins>Valentina Pyatkin</ins>, Bonnie Webber, Ido Dagan, Reut Tsarfaty.  *In NAACL 2025*.
+<ins>Valentina Pyatkin</ins>, Bonnie Webber, Ido Dagan, Reut Tsarfaty
 [ArXiV](https://arxiv.org/pdf/2405.20967)
 
 ### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
