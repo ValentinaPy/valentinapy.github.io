@@ -13,8 +13,8 @@ My research focuses on Post-Training and the <b>Adaptation of Language Models</b
 <ul>
   <li><b>Post-Training and LM Adaptation:</b> Finding optimal recipes for LM post-training - from synthetic preference data to reinforcement learning algorithms.</li>
    <ul>
-      <li>Nested item A</li>
-      <li>Nested item B</li>
+      <li>I am a core contributor on the Tulu and Open-Instruct project, where develop post-training pipelines consisting of supervised finetuning, direct preference optimization, and reinforcement learning with verifiable rewards.</li>
+      <li>I have worked on the open science of language models, by contributing to OLMo and OLMo 2.</li>
     </ul>
   <li><b>Natural Language Understanding:</b> Deeper semantic reasoning across a broader discourse and better handling of ambiguity and underspecification for LLMs.</li>
   <li><b>Critical Evaluation:</b> Testing LMs' abilities to perform pragmatic inferences, extracting their implicit values, and evaluating Reward Models.</li>
