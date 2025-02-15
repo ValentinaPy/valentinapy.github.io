@@ -40,11 +40,11 @@ Below is a selection of my recent publications; for my full publication record, 
 ---------------	
 
 #### *IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance*
-Paul Röttger, Musashi Hinck, Valentin Hofmann, Kobi Hackenburg, <ins>Valentina Pyatkin</ins>, Faeze Brahman, Dirk Hovy
+Paul Röttger, Musashi Hinck, Valentin Hofmann, Kobi Hackenburg,  **Valentina Pyatkin**, Faeze Brahman, Dirk Hovy
 📄 [Paper](https://arxiv.org/pdf/2502.08395)
 
 #### *2 OLMo 2 Furious*
-  Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher Clark, Pradeep Dasigi, Nouha Dziri, Michal Guerquin, Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester James V Miranda, Jacob Morrison, Tyler Murray, Crystal Nam, <ins>Valentina Pyatkin</ins>, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden, Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A Smith, Hannaneh Hajishirzi
+  Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher Clark, Pradeep Dasigi, Nouha Dziri, Michal Guerquin, Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester James V Miranda, Jacob Morrison, Tyler Murray, Crystal Nam,  **Valentina Pyatkin**, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden, Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A Smith, Hannaneh Hajishirzi
 📄 [Paper](https://arxiv.org/pdf/2501.00656)
 
 
