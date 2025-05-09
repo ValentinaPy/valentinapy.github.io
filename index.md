@@ -38,6 +38,22 @@ Below is a selection of my recent publications; for my full publication record, 
 
 ### 2025
 ---------------	
+#### *Diverging Preferences: When do Annotators Disagree and do Models Know?*
+Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yejin Choi, Eunsol Choi, Xiang Ren, **Valentina Pyatkin**.    
+🎓 In: **ICML 2025** | 📄 [Paper](https://arxiv.org/pdf/2410.14632)
+
+#### *SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation*
+Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine.    
+🎓 In: **ICML 2025** | 📄 [Paper](https://arxiv.org/pdf/2410.16665)  
+
+#### *RewardBench: Evaluating Reward Models for Language Modeling*
+Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi.    
+🎓 In: **NAACL Findings 2025** | 📄 [Paper](https://arxiv.org/pdf/2403.13787)
+
+
+#### *Superlatives in Context: Modeling the Implicit Semantics of Superlatives*
+**Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty.    
+🎓 In: **NAACL 2025** | 📄 [Paper](https://arxiv.org/pdf/2405.20967)
 
 #### *IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance*
 Paul Röttger, Musashi Hinck, Valentin Hofmann, Kobi Hackenburg,  **Valentina Pyatkin**, Faeze Brahman, Dirk Hovy
@@ -55,21 +71,9 @@ Paul Röttger, Musashi Hinck, Valentin Hofmann, Kobi Hackenburg,  **Valentina Py
  **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi.   
 📄 [Paper](https://allenai.org/papers/tulu-3-report.pdf)
 
-#### *Diverging Preferences: When do Annotators Disagree and do Models Know?*
-Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yejin Choi, Eunsol Choi, Xiang Ren, **Valentina Pyatkin**.    
-📄 [Paper](https://arxiv.org/pdf/2410.14632)
-
-#### *SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation*
-Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine.    
-📄 [Paper](https://arxiv.org/pdf/2410.16665)  
-
 #### *Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback*
 Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valentina Pyatkin**, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi.    
 📄 [Paper](https://arxiv.org/pdf/2410.19133)
-
-#### *Superlatives in Context: Modeling the Implicit Semantics of Superlatives*
-**Valentina Pyatkin**, Bonnie Webber, Ido Dagan, Reut Tsarfaty.    
-🎓 In: **NAACL 2025** | 📄 [Paper](https://arxiv.org/pdf/2405.20967)
 
 #### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
 Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan.  
@@ -90,10 +94,6 @@ Hamish Ivison, Yizhong Wang, Jiacheng Liu, Zeqiu Wu, **Valentina Pyatkin**, Nath
 #### *WILDBENCH: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild*
 Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichander, **Valentina Pyatkin**, Nouha Dziri, Ronan Le Bras, Yejin Choi  
 🎓 In: **ICLR 2025** | 📄 [Paper](https://arxiv.org/pdf/2406.04770)
-
-#### *RewardBench: Evaluating Reward Models for Language Modeling*
-Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, Hannaneh Hajishirzi.    
-🎓 In: **NAACL Findings 2025** | 📄 [Paper](https://arxiv.org/pdf/2403.13787)
 
 #### *Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models*
 Paul Röttger\*, Valentin Hofmann\*, **Valentina Pyatkin**, Musashi Hinck, Hannah Rose Kirk, Hinrich Schütze, Dirk Hovy.    
