@@ -9,7 +9,7 @@ Previously I did a research internship at Google, obtained an MSc from the Unive
 
 ---
 ## Research
-My research focuses on how one can develop generative AI that is contextually robust, responsible, open, and that appropriately encompasses pluralistic values. In particular, I have focused on extending language models' capabilities through post-training and adaptation. Additionally, I have been involved in the construction of multiple, widely-used benchmarks, such as RewardBench! More specifically, my research is centered around:
+My research focuses on how one can develop generative AI that is contextually robust, responsible and open. In particular, I have focused on extending language models' capabilities through post-training and adaptation. Additionally, I have been involved in the construction of multiple, widely-used benchmarks, such as RewardBench! More specifically, my research is centered around:
 <ul>
   <li><b>Open Science of LLMs and Post-Training:</b>Developing good open recipes for language model post-training. </li>
    <ul>
@@ -17,7 +17,7 @@ My research focuses on how one can develop generative AI that is contextually ro
       <li>I have worked on the open science of language models, by contributing to <a href="https://arxiv.org/pdf/2402.00838.pdf?">OLMo</a> and <a href="https://arxiv.org/pdf/2501.00656">OLMo2</a>.</li>
     </ul>
   <li><b>Steerability, Underspecification and Context:</b> Improving how models deal with contextual robustness, underspecified inputs, and how they can respond more precisely to instructions.</li>
-  <li><b>Critical Evaluation:</b> of the values embedded in generative models and reward models.</li>
+  <li><b>Critical Evaluation:</b> Building challenging benchmarks for more realistic, human-centered evaluation of generative models and reward models.</li>
 </ul>
 ---
 
