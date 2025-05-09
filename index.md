@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## Bio
-I am a postdoctoral researcher (and Young Investigator) at the [Allen Institute for AI](https://allenai.org) and the University of Washington, advised by Prof. Yejin Choi.
+I am a postdoctoral researcher (and Young Investigator) at the [Allen Institute for AI](https://allenai.org) and the University of Washington, advised by Prof. Yejin Choi and Prof. Hanna Hajishirzi.
 I completed my PhD in Computer Science at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I also was a visiting PhD student at [UW NLP](https://nlp.washington.edu) and had the pleasure of interning twice at the [Allen Institute for AI](https://allenai.org). My work has been awarded an [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786) and the ACL [Best Theme Paper Award](http://arxiv.org/pdf/2402.00838). I am also very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. My work has been featured in the press, for example by [TechCrunch](https://techcrunch.com/2024/11/21/ai2s-open-source-tulu-3-lets-anyone-play-the-ai-post-training-game/?guccounter=1) and [GeekWire](https://www.geekwire.com/2024/ai2s-new-tulu-3-model-rivals-tech-giants-in-breakthrough-for-open-source-ai-post-training/).
 
