@@ -59,7 +59,7 @@ Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen L
 🎓 In: **NAACL 2025** | 📄 [Paper](https://arxiv.org/pdf/2405.20967)
 
 #### *IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance*
-Paul Röttger, Musashi Hinck, Valentin Hofmann, Kobi Hackenburg,  **Valentina Pyatkin**, Faeze Brahman, Dirk Hovy
+Paul Röttger, Musashi Hinck, Valentin Hofmann, Kobi Hackenburg,  **Valentina Pyatkin**, Faeze Brahman, Dirk Hovy. 
 🎓 In: **TACL 2025** | 📄 [Paper](https://arxiv.org/pdf/2502.08395)
 
 #### *2 OLMo 2 Furious*
