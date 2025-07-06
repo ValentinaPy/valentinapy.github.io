@@ -38,6 +38,10 @@ Below is a selection of my recent publications; for my full publication record, 
 ### 2025
 ---------------	
 
+#### *IF-RLVR: Generalizing Verifiable Instruction Following*
+**Valentina Pyatkin**, Saumya Malik, Victoria Graf, Hamish Ivison, Shengyi Huang, Pradeep Dasigi, Nathan Lambert, Hannaneh Hajishirzi
+📄 [Paper](https://arxiv.org/pdf/2507.02833)
+
 #### *RewardBench 2: Advancing Reward Model Evaluation*
 Saumya Malik, **Valentina Pyatkin**, Sander Land, Jacob Morrison, Noah A. Smith, Hannaneh Hajishirzi, Nathan Lambert.  
 📄 [Paper](https://arxiv.org/pdf/2506.01937)
