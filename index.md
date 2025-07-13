@@ -38,9 +38,18 @@ Below is a selection of my recent publications; for my full publication record, 
 ### 2025
 ---------------	
 
+
 #### *IF-RLVR: Generalizing Verifiable Instruction Following*
 **Valentina Pyatkin**, Saumya Malik, Victoria Graf, Hamish Ivison, Shengyi Huang, Pradeep Dasigi, Nathan Lambert, Hannaneh Hajishirzi
 📄 [Paper](https://arxiv.org/pdf/2507.02833)
+
+#### *TÜLU 3: Pushing Frontiers in Open Language Model Post-Training*
+ **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi.   
+🎓 In: **COLM 2025** | 📄 [Paper](https://allenai.org/papers/tulu-3-report.pdf)
+
+#### *2 OLMo 2 Furious*
+  Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher Clark, Pradeep Dasigi, Nouha Dziri, Michal Guerquin, Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester James V Miranda, Jacob Morrison, Tyler Murray, Crystal Nam,  **Valentina Pyatkin**, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden, Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A Smith, Hannaneh Hajishirzi
+🎓 In: **COLM 2025** |📄 [Paper](https://arxiv.org/pdf/2501.00656)
 
 #### *RewardBench 2: Advancing Reward Model Evaluation*
 Saumya Malik, **Valentina Pyatkin**, Sander Land, Jacob Morrison, Noah A. Smith, Hannaneh Hajishirzi, Nathan Lambert.  
@@ -51,7 +60,7 @@ Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yeji
 🎓 In: **ICML 2025** | 📄 [Paper](https://arxiv.org/pdf/2410.14632)
 
 #### *SafetyAnalyst: Interpretable, transparent, and steerable LLM safety moderation*
-Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine.    
+Jing-Jing Li, **Valentina Pyatkin**, Max Kleiman-Weiner, Liwei Jiang, Nouha Dziri, Anne G. E. Collins, Jana Schaich Borg, Maarten Sap, Yejin Choi, Sydney Levine. 
 🎓 In: **ICML 2025** | 📄 [Paper](https://arxiv.org/pdf/2410.16665)  
 
 #### *RewardBench: Evaluating Reward Models for Language Modeling*
@@ -66,10 +75,6 @@ Nathan Lambert, **Valentina Pyatkin**, Jacob Morrison, LJ Miranda, Bill Yuchen L
 Paul Röttger, Musashi Hinck, Valentin Hofmann, Kobi Hackenburg,  **Valentina Pyatkin**, Faeze Brahman, Dirk Hovy. 
 🎓 In: **TACL 2025** | 📄 [Paper](https://arxiv.org/pdf/2502.08395)
 
-#### *2 OLMo 2 Furious*
-  Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher Clark, Pradeep Dasigi, Nouha Dziri, Michal Guerquin, Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester James V Miranda, Jacob Morrison, Tyler Murray, Crystal Nam,  **Valentina Pyatkin**, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden, Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A Smith, Hannaneh Hajishirzi
-📄 [Paper](https://arxiv.org/pdf/2501.00656)
-
 #### *Hybrid Preferences: Learning to Route Instances for Human vs. AI Feedback*
 Lester James V. Miranda\*, Yizhong Wang\*, Yanai Elazar, Sachin Kumar, **Valentina Pyatkin**, Faeze Brahman, Noah A. Smith, Hanna Hajishirzi, Pradeep Dasigi.    
 🎓 In: **ACL 2025** |📄 [Paper](https://arxiv.org/pdf/2410.19133)
@@ -81,10 +86,6 @@ Bill Yuchen Lin, Yuntian Deng, Khyathi Chandu, Faeze Brahman, Abhilasha Ravichan
 
 ### 2024
 ---------------
-
-#### *TÜLU 3: Pushing Frontiers in Open Language Model Post-Training*
- **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi.   
-📄 [Paper](https://allenai.org/papers/tulu-3-report.pdf)
 
 #### *Explicating the Implicit: Argument Detection Beyond Sentence Boundaries*
 Paul Roit, Aviv Slobodkin, Eran Hirsch, Arie Cattan, Ayal Klein, **Valentina Pyatkin**, Ido Dagan.  
