@@ -37,11 +37,13 @@ Below is a selection of my recent publications; for my full publication record, 
 
 ### 2025
 ---------------	
-
+#### *Olmo 3*
+Olmo Team, including **Valentina Pyatkin**
+📄 [Paper](https://www.datocms-assets.com/64837/1763662397-1763646865-olmo_3_technical_report-1.pdf)
 
 #### *IF-RLVR: Generalizing Verifiable Instruction Following*
 **Valentina Pyatkin**, Saumya Malik, Victoria Graf, Hamish Ivison, Shengyi Huang, Pradeep Dasigi, Nathan Lambert, Hannaneh Hajishirzi
-📄 [Paper](https://arxiv.org/pdf/2507.02833)
+🎓 In: **NeurIPS 2025** |📄 [Paper](https://arxiv.org/pdf/2507.02833)
 
 #### *TÜLU 3: Pushing Frontiers in Open Language Model Post-Training*
  **Valentina Pyatkin**\*, Nathan Lambert\*, Jacob Morrison\*, Shengyi Huang\*, Hamish Ivison\*, Faeze Brahman\*, Lester James V Miranda\*, Alisa Liu. Nouha Dziri, Xinxi Lyu, Yuling Gu, Saumya Malik, Victoria Graf, Jena D Hwang, Jiangjiang Yang, Ronan Le Bras, Oyvind Tafjord, Chris Wilhelm, Luca Soldaini, Noah A Smith, Yizhong Wang, Pradeep Dasigi, Hannaneh Hajishirzi.   
