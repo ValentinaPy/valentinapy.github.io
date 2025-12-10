@@ -19,7 +19,9 @@ My research focuses on how one can develop generative AI that is contextually ro
   <li><b>Steerability, Underspecification and Context:</b> Improving how models deal with contextual robustness, underspecified inputs, and how they can respond more precisely to instructions.</li>
   <li><b>Critical Evaluation:</b> Building challenging benchmarks for more realistic, human-centered evaluation of generative models and reward models.</li>
 </ul>
+
 ---
+
 ## Work with me:
 <div style="background-color: #f0f8ff; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; margin: 20px 0;">
   <h3 style="margin-top: 0; color: #0066cc;">Swiss AI Initiative</h3>
