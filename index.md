@@ -22,11 +22,10 @@ My research focuses on how one can develop generative AI that is contextually ro
 
 ---
 
-
 <div style="background-color: #f0f8ff; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; margin: 20px 0;">
   <h3 style="margin-top: 0; color: #0066cc;">Work with me: Swiss AI Initiative</h3>
   <p>I am looking for motivated students to work with me on contributing to the <strong>Swiss AI Initiative's</strong> LLM efforts, particularly with a focus on <strong>post-training</strong>. We are open to host students at ETHZ or EPFL for semester or thesis projects. </p>
-  <p>Indicate interest using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeLZGxcudL_q-POLwssXg21eVoy9REv349grIij9QkkRmNUQ/viewform" target="_blank" style="color: #0066cc; font-weight: bold;"<a>application form</a>, mentioning my name.</p>
+  <p>Indicate interest using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeLZGxcudL_q-POLwssXg21eVoy9REv349grIij9QkkRmNUQ/viewform" target="_blank" style="color: #0066cc; font-weight: bold;">application form</a>, mentioning my name.</p>
 </div>
 
 ---
