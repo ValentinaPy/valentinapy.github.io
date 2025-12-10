@@ -3,7 +3,7 @@ layout: home
 ---
 
 ## Bio
-I am a postdoctoral researcher (and Young Investigator) at the [Allen Institute for AI](https://allenai.org) and the University of Washington, advised by Prof. Hanna Hajishirzi.
+I am a postdoctoral researcher (and Young Investigator) at the [Allen Institute for AI](https://allenai.org) and the University of Washington, advised by Prof. Hanna Hajishirzi. Additionally, I am part-time affiliated with the [ETH AI Center](https://ai.ethz.ch), where I mentor students and work on post-training for the [Swiss AI Initiative](https://www.swiss-ai.org).
 I completed my PhD in Computer Science at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I also was a visiting PhD student at [UW NLP](https://nlp.washington.edu), with Prof. Yejin Choi, and had the pleasure of interning twice at the [Allen Institute for AI](https://allenai.org). My work has been awarded an [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786) and the ACL [Best Theme Paper Award](http://arxiv.org/pdf/2402.00838). I am also very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. My work has been featured in the press, for example by [TechCrunch](https://techcrunch.com/2024/11/21/ai2s-open-source-tulu-3-lets-anyone-play-the-ai-post-training-game/?guccounter=1) and [GeekWire](https://www.geekwire.com/2024/ai2s-new-tulu-3-model-rivals-tech-giants-in-breakthrough-for-open-source-ai-post-training/).
 
@@ -20,7 +20,14 @@ My research focuses on how one can develop generative AI that is contextually ro
   <li><b>Critical Evaluation:</b> Building challenging benchmarks for more realistic, human-centered evaluation of generative models and reward models.</li>
 </ul>
 ---
+## Work with me:
+<div style="background-color: #f0f8ff; border: 2px solid #0066cc; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h3 style="margin-top: 0; color: #0066cc;">Swiss AI Initiative</h3>
+  <p>I am looking for motivated students to work with me on contributing to the <strong>Swiss AI Initiative's</strong> LLM efforts, particularly with a focus on <strong>post-training</strong>. We are open to host students at ETHZ or EPFL for semester or thesis projects. </p>
+  <p>Indicate interest using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeLZGxcudL_q-POLwssXg21eVoy9REv349grIij9QkkRmNUQ/viewform" target="_blank" style="color: #0066cc; font-weight: bold;"<a>application form</a></p>
+</div>
 
+---
 
 ## Awards
 * Aug. 2024: [ACL Outstanding Paper Award](https://arxiv.org/pdf/2402.16786)!
@@ -218,6 +225,6 @@ Ayal Klein, Jonathan Mamou, **Valentina Pyatkin**, Daniela Stepanov, Hangfeng He
 ---
 
 ### Misc
-Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". I think that Italian Neorealism produced some of the most beautiful movies. My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
+Besides this I love rowing, hiking, and going to the "cinemathèque". I think that Italian Neorealism produced some of the most beautiful movies. My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
 
 ---
