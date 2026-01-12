@@ -28,6 +28,12 @@ My research focuses on how one can develop generative AI that is contextually ro
   <p>Indicate interest using this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeeLZGxcudL_q-POLwssXg21eVoy9REv349grIij9QkkRmNUQ/viewform" target="_blank" style="color: #0066cc; font-weight: bold;">application form</a>, mentioning my name.</p>
 </div>
 
+<div style="background-color: #fff4e6; border: 2px solid #ff6b35; border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h3 style="margin-top: 0; color: #ff6b35;">ICLR 2026 Workshop: Post-AGI Science and Society</h3>
+  <p>I am excited to be co-organizing the <strong>Post-AGI Science and Society Workshop</strong> at <strong>ICLR 2026</strong>. We will discuss how the scientific process will evolve in a P-AGI society and we will hypothesize what research questions will still be meaningful to answer..</p>
+  <p>Learn more and join us: <a href="https://p-agi.org" target="_blank" style="color: #ff6b35; font-weight: bold;">https://p-agi.org</a></p>
+</div>
+
 ---
 
 ## Awards
