@@ -51,6 +51,10 @@ Below is a selection of my recent publications; for my full publication record, 
 
 ### 2025
 ---------------	
+#### *PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm.*
+Jing-Jing Li, Joel Mire, Eve Fleisig, **Valentina Pyatkin**, Anne Collins, Maarten Sap, Sydney Levine
+📄 [Paper](https://arxiv.org/pdf/2601.08951)
+
 #### *Olmo 3*
 Olmo Team, including **Valentina Pyatkin**
 📄 [Paper](https://www.datocms-assets.com/64837/1763662397-1763646865-olmo_3_technical_report-1.pdf)
