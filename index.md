@@ -49,12 +49,18 @@ My research focuses on how one can develop generative AI that is contextually ro
 
 Below is a selection of my recent publications; for my full publication record, please see my [Google Scholar][GS] page.
 
-### 2025
+### 2026
 ---------------	
 #### *PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm.*
 Jing-Jing Li, Joel Mire, Eve Fleisig, **Valentina Pyatkin**, Anne Collins, Maarten Sap, Sydney Levine
-📄 [Paper](https://arxiv.org/pdf/2601.08951)
+🎓 In: **ICLR 2026** | 📄 [Paper](https://arxiv.org/pdf/2601.08951)
 
+#### *RewardBench 2: Advancing Reward Model Evaluation*
+Saumya Malik, **Valentina Pyatkin**, Sander Land, Jacob Morrison, Noah A. Smith, Hannaneh Hajishirzi, Nathan Lambert.  
+🎓 In: **ICLR 2026** | 📄 [Paper](https://arxiv.org/pdf/2506.01937)
+
+### 2025
+---------------	
 #### *Olmo 3*
 Olmo Team, including **Valentina Pyatkin**
 📄 [Paper](https://www.datocms-assets.com/64837/1763662397-1763646865-olmo_3_technical_report-1.pdf)
@@ -70,10 +76,6 @@ Olmo Team, including **Valentina Pyatkin**
 #### *2 OLMo 2 Furious*
   Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, Nathan Lambert, Dustin Schwenk, Oyvind Tafjord, Taira Anderson, David Atkinson, Faeze Brahman, Christopher Clark, Pradeep Dasigi, Nouha Dziri, Michal Guerquin, Hamish Ivison, Pang Wei Koh, Jiacheng Liu, Saumya Malik, William Merrill, Lester James V Miranda, Jacob Morrison, Tyler Murray, Crystal Nam,  **Valentina Pyatkin**, Aman Rangapur, Michael Schmitz, Sam Skjonsberg, David Wadden, Christopher Wilhelm, Michael Wilson, Luke Zettlemoyer, Ali Farhadi, Noah A Smith, Hannaneh Hajishirzi
 🎓 In: **COLM 2025** |📄 [Paper](https://arxiv.org/pdf/2501.00656)
-
-#### *RewardBench 2: Advancing Reward Model Evaluation*
-Saumya Malik, **Valentina Pyatkin**, Sander Land, Jacob Morrison, Noah A. Smith, Hannaneh Hajishirzi, Nathan Lambert.  
-📄 [Paper](https://arxiv.org/pdf/2506.01937)
 
 #### *Diverging Preferences: When do Annotators Disagree and do Models Know?*
 Michael J.Q. Zhang, Zhilin Wang, Jena D. Hwang, Yi Dong, Olivier Delalleau, Yejin Choi, Eunsol Choi, Xiang Ren, **Valentina Pyatkin**.    
