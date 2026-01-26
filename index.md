@@ -52,7 +52,7 @@ Below is a selection of my recent publications; for my full publication record, 
 ### 2026
 ---------------	
 #### *PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm.*
-Jing-Jing Li, Joel Mire, Eve Fleisig, **Valentina Pyatkin**, Anne Collins, Maarten Sap, Sydney Levine
+Jing-Jing Li, Joel Mire, Eve Fleisig, **Valentina Pyatkin**, Anne Collins, Maarten Sap, Sydney Levine.
 🎓 In: **ICLR 2026** | 📄 [Paper](https://arxiv.org/pdf/2601.08951)
 
 #### *RewardBench 2: Advancing Reward Model Evaluation*
