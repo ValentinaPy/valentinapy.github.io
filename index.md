@@ -51,6 +51,14 @@ Below is a selection of my recent publications; for my full publication record, 
 
 ### 2026
 ---------------	
+#### *TurnWise: The Gap between Single-and Multi-turn Language Model Capabilities.*
+Victoria Graf, **Valentina Pyatkin**, Nouha Dziri, Nathan Lambert, and Hannaneh Hajishirzi. 
+📄[Paper](https://arxiv.org/pdf/2603.16759)
+
+#### *Which course? Discourse! Teaching Discourse and Generation in the Era of LLMs*
+Junyi Jessy Li, Yang Janet Liu, Kanishka Misra, **Valentina Pyatkin**, William Sheffield.
+🎓 In: **Seventh Workshop on Teaching Natural Language Processing (TeachNLP) @ EACL** | 📄 [Paper](https://arxiv.org/pdf/2602.02878)
+
 #### *PluriHarms: Benchmarking the Full Spectrum of Human Judgments on AI Harm.*
 Jing-Jing Li, Joel Mire, Eve Fleisig, **Valentina Pyatkin**, Anne Collins, Maarten Sap, Sydney Levine.
 🎓 In: **ICLR 2026** | 📄 [Paper](https://arxiv.org/pdf/2601.08951)
