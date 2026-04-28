@@ -51,6 +51,11 @@ Below is a selection of my recent publications; for my full publication record, 
 
 ### 2026
 ---------------	
+
+#### *SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning*
+Alexis Limozin, Eduard Durech, Torsten Hoefler, Imanol Schlag, **Valentina Pyatkin**. 
+📄[Paper](https://arxiv.org/pdf/2604.23747)
+
 #### *TurnWise: The Gap between Single-and Multi-turn Language Model Capabilities.*
 Victoria Graf, **Valentina Pyatkin**, Nouha Dziri, Nathan Lambert, and Hannaneh Hajishirzi. 
 📄[Paper](https://arxiv.org/pdf/2603.16759)
