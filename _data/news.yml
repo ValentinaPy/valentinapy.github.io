@@ -1,0 +1,72 @@
+# News items, newest first.
+# `date` is a short display label; `text` supports Markdown links.
+- date: Apr 2026
+  text: "Giving a keynote at the [Re-Align workshop](https://representational-alignment.github.io/2026/) at ICLR 2026 in Rio."
+- date: Apr 2026
+  text: "Panelist at the WiML workshop at ICLR 2026."
+- date: Mar 2026
+  text: "Invited talk at the Zurich AI Meetup on LLM Post-Training."
+- date: Feb 2026
+  text: "I will be a panelist at [AMLD 2026](https://2026.appliedmldays.org), discussing Open AI Models."
+- date: Feb 2026
+  text: "I am part of the Scientific Committee of the International Open-Source LLM Builders Summit at EPFL."
+- date: Feb 2026
+  text: "Giving an invited talk at the Front Conference Zurich on Opening up the Full Language Model Pipeline."
+- date: Dec 2025
+  text: "IFBench is accepted to NeurIPS, see you in San Diego!"
+- date: Nov 2025
+  text: "Invited talk at the [ETH AI Center](https://ai.ethz.ch/news-and-events/eth-ai-center-events/details.developing-steerable-open-language-models-rlvr-for-verifiable-instruction-following-generalization-and-reasoning.75603.html), on Developing Steerable Open Language Models: RLVR for verifiable instruction following, generalization, and reasoning."
+- date: Nov 2025
+  text: "Invited talk on verifiable instruction following and open LLM training recipes at the Language Technologies Laboratory of BSC-CNS."
+- date: Oct 2025
+  text: "Invited talk on verifiable instruction following and open LLM training recipes at Università degli Studi di Milano Bicocca."
+- date: Oct 2025
+  text: "Co-organizing the [SoLaR workshop](https://solar-colm.github.io) on Socially Responsible Language Modelling Research at COLM 2025."
+- date: Sep 2025
+  text: "Participated in the [Wallenberg Advanced Scientific Forum](https://wasp-sweden.org/wallenberg-advanced-scientific-forum-2025/) on the Evaluation of Generative AI."
+- date: Sep 2025
+  text: "Invited talk on \"Generalizing Precise Instruction Following\" at Thomson Reuters."
+- date: Aug 2025
+  text: "Invited talk on open LLM research and precise instruction following at the Oxford Machine Learning Summer School."
+- date: Aug 2025
+  text: "Invited talk on \"Generalizing Precise Instruction Following\" at NVIDIA."
+- date: Jul 2025
+  text: "Invited talk at the ICML workshop on [Models of Human Feedback for AI Alignment](https://sites.google.com/view/mhf-icml2025)."
+- date: Jul 2025
+  text: "Invited talk at the [2nd AI for Math Workshop @ ICML 2025](https://sites.google.com/view/ai4mathworkshopicml2025/)."
+- date: Jul 2025
+  text: "Invited talk on OLMo at the [International Open-Source LLM Builders Summit](https://ai.ethz.ch/details.international-opensource-llm-builders-summit.74610.html) at EPFL Geneva."
+- date: May 2025
+  text: "2 papers accepted to ICML, see you in Vancouver!"
+- date: Mar 2025
+  text: "Invited talk at Stanford on \"Designing Trustworthy AI in a Polarized World\"."
+- date: 2025
+  text: "Will be serving as Tutorial Chair of EMNLP 2025."
+- date: Dec 2024
+  text: "Co-organizing the [SoLaR workshop](https://solar-neurips.github.io/) on Socially Responsible Language Modelling Research at NeurIPS 2024."
+- date: Oct 2024
+  text: "I'm attending COLM and will also be a mentor at the [MLR at Penn workshop](https://sites.google.com/view/mlrpenn-mentor/schedule?authuser=0)!"
+- date: Aug 2024
+  text: "2 paper awards at ACL 2024!"
+- date: Jun 2024
+  text: "Serving as Internal Communication Chair for [ACL 2024](https://2024.aclweb.org/organization/)."
+- date: Apr 2024
+  text: "Invited talk at the UMass NLP Seminar."
+- date: Mar 2024
+  text: "Invited talk at the University of Edinburgh."
+- date: Mar 2024
+  text: "Co-organized the [UnImplicit workshop](https://unimplicit2024.github.io/) at EACL 2024."
+- date: Mar 2024
+  text: "Invited talk at the [Harvard Efficient ML Seminar](https://sites.google.com/view/harvard-efficient-ml)."
+- date: Mar 2024
+  text: "DAAD sponsored visit to the University of Saarbrücken, the Max Planck Institute for Software Systems and the University of Stuttgart."
+- date: Feb 2024
+  text: "Invited talk at the UBC NLP group."
+- date: Dec 2023
+  text: "Invited talk at Brown/Tübingen."
+- date: Sep 2023
+  text: "Gave an invited talk at the [KR 2023 workshop on Computational Machine Ethics](https://sites.google.com/view/cme2023/home)."
+- date: Jan 2023
+  text: "Invited talk at the [UT Austin Seminar on \"Social Implications and Impact of NLP\"](https://jessyli.com/courses/lin393_s23)."
+- date: Jul 2022
+  text: "Co-organized the [UnImplicit workshop](https://unimplicit2022.github.io/) at NAACL 2022."

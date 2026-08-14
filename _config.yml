@@ -1,6 +1,10 @@
 name: Valentina Pyatkin
 title: Valentina Pyatkin
 author: Valentina Pyatkin
+description: >-
+  Valentina Pyatkin — postdoctoral researcher at the Allen Institute for AI
+  and the University of Washington, working on LLM post-training,
+  steerability, and evaluation.
 url: https://valentinapy.github.io
 base: ''
 twitter: '@valentina__py'
@@ -13,21 +17,25 @@ kramdown:
 highlighter: rouge
 
 exclude:
-    - bower_components
     - node_modules
     - package.json
     - bower.json
     - drafts
+    - vendor
+    - Gemfile
+    - Gemfile.lock
 
 navigation:
     - title: about
-      link: /index.html
+      link: /
+    - title: news
+      link: /#news
     - title: research
-      link: /research.html
-    - title: CV
-      link: /content/CV.pdf
-
-theme: jekyll-theme-minimal
+      link: /#research
+    - title: publications
+      link: /#publications
+    - title: scholar
+      link: https://scholar.google.com/citations?user=E9EgKkMAAAAJ&hl=en
 
 sass:
   sass_dir: _sass

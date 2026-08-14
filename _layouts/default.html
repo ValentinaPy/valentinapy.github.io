@@ -1,70 +1,113 @@
 <!DOCTYPE html>
-<html>
-    <style>
-        .navbar-fixed-top {
-            margin-top: 0 !important;
-            width:100% !important;
+<html lang="en">
+<head>
+    <script>
+      (function () {
+        var t = localStorage.getItem('theme');
+        if (t) document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{{ site.name }}{% if page.title %}: {{ page.title }}{% endif %}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author }}">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ site.name }}{% if page.title %}: {{ page.title }}{% endif %}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}/valentina_web.jpg">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="{{ site.twitter }}">
+
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="icon" href="{{ site.url }}/favicon.ico">
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Valentina Pyatkin",
+      "url": "{{ site.url }}",
+      "image": "{{ site.url }}/valentina_web.jpg",
+      "jobTitle": "Postdoctoral Researcher",
+      "worksFor": [
+        { "@type": "Organization", "name": "Allen Institute for AI" },
+        { "@type": "Organization", "name": "University of Washington" },
+        { "@type": "Organization", "name": "ETH AI Center" }
+      ],
+      "sameAs": [
+        "https://scholar.google.com/citations?user=E9EgKkMAAAAJ",
+        "https://x.com/valentina__py"
+      ]
+    }
+    </script>
+
+    {% if page.mathjax %}
+    <script type="text/javascript" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+    </script>
+    {% endif %}
+</head>
+
+<body>
+    <nav class="site-nav" aria-label="Primary">
+        <a class="site-nav__brand" href="{{ site.url }}/">{{ site.name }}</a>
+        <ul class="site-nav__links">
+            {% for item in site.navigation %}
+            <li><a class="site-nav__link" href="{{ item.link }}">{{ item.title }}</a></li>
+            {% endfor %}
+        </ul>
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode" data-theme-toggle>
+            <svg class="icon-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+            <svg class="icon-moon" viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+    </nav>
+
+    <main class="page">
+        {{ content }}
+    </main>
+
+    <footer class="site-footer">
+        <ul class="social">
+            <li><a href="mailto:valpyatkin@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a></li>
+            <li><a href="https://scholar.google.com/citations?user=E9EgKkMAAAAJ&hl=en" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+            <li><a href="https://x.com/valentina__py" aria-label="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a></li>
+        </ul>
+        <p>&copy; {{ site.time | date: "%Y" }} Valentina Pyatkin</p>
+    </footer>
+
+    <script>
+      (function () {
+        var themeBtn = document.querySelector('[data-theme-toggle]');
+        if (themeBtn) {
+          themeBtn.addEventListener('click', function () {
+            var current = document.documentElement.getAttribute('data-theme');
+            var isDark = current === 'dark' ||
+              (!current && window.matchMedia('(prefers-color-scheme: dark)').matches);
+            var next = isDark ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+          });
         }
-    </style>
 
-    <head>
-        <title>
-            {{ site.name }}{% if page.title %}: {{ page.title }}{% endif %}
-        </title>
-
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
-        <link rel="icon" href="{{ site.url }}/favicon.ico">
-        <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-
-        {% if page.date %}
-        {% assign shorturl = page.url | replace:'index.html','' %}
-        <meta name="twitter:card" content="summary">
-        <meta name="twitter:site" content="{{ site.twitter }}">
-        <meta name="twitter:creator" content="{{ site.twitter }}">
-        <meta name="twitter:title" content="{{ page.title }}">
-        <meta name="twitter:description"
-            content="{{ page.excerpt | markdownify | strip_html | strip_newlines }}">
-
-        <meta name="og:type" content="article">
-        <meta name="og:title" content="{{ page.title }}">
-        <meta name="og:description"
-            content="{{ page.excerpt | markdownify | strip_html | strip_newlines }}">
-        {% endif %}
-    </head>
-
-    <body>
-        <div class="container{% if page.class %} {{ page.class }}{% endif %}">
-            <div class="col-md-12" role="main">
-                        {{ content }}
-            </div>
-        </div>
-
-        {% if page.mathjax %}
-        <!-- MathJax -->
-        <script type="text/x-mathjax-config">
-            MathJax.Hub.Config({
-                tex2jax: {inlineMath: [['$','$']]}
-            });
-        </script>
-        <script type="text/javascript"
-            src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-        </script>
-        {% endif %}
-
-        <!-- Google Analytics -->
-        <script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-66737221-1');
-ga('require', 'linkid', 'linkid.js');
-ga('send', 'pageview');
-        </script>
-    </body>
+        var newsToggle = document.querySelector('[data-news-toggle]');
+        if (newsToggle) {
+          newsToggle.addEventListener('click', function () {
+            var news = newsToggle.closest('.news');
+            var expanded = news.classList.toggle('is-expanded');
+            newsToggle.querySelector('span').textContent =
+              expanded ? 'show fewer' : 'show all news';
+            newsToggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+          });
+        }
+      })();
+    </script>
+</body>
 </html>

@@ -1,0 +1,18 @@
+{% assign years = site.data.publications | map: "year" | uniq %}
+{% for year in years %}
+<h3 class="pub-year">{{ year }}</h3>
+{% assign pubs = site.data.publications | where: "year", year %}
+{% for pub in pubs %}
+<div class="pub{% if pub.award %} pub--award{% endif %}">
+    <p class="pub__title">{{ pub.title }}</p>
+    <p class="pub__authors">{{ pub.authors | replace: "Valentina Pyatkin", "<strong>Valentina Pyatkin</strong>" }}</p>
+    <p class="pub__meta">
+        {% if pub.venue %}<span class="pub__venue">{{ pub.venue }}</span>{% endif %}
+        {% if pub.award %}<span class="pub__award">&#9733; {{ pub.award }}</span>{% endif %}
+        {% if pub.paper %}<a class="pub__link" href="{{ pub.paper }}"><i class="far fa-file-lines" aria-hidden="true"></i> paper</a>{% endif %}
+        {% if pub.links %}{% for link in pub.links %}<a class="pub__link" href="{{ link.url }}">{{ link.label }}</a>{% endfor %}{% endif %}
+    </p>
+</div>
+{% endfor %}
+{% endfor %}
+<p class="pub-footnote">* denotes equal contribution.</p>

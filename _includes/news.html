@@ -1,0 +1,15 @@
+<div class="news">
+    <ul class="news__list">
+        {% for item in site.data.news %}
+        <li class="news__item{% if forloop.index > 6 %} news__more{% endif %}">
+            <span class="news__date">{{ item.date }}</span>
+            <span class="news__text">{{ item.text | markdownify }}</span>
+        </li>
+        {% endfor %}
+    </ul>
+    {% if site.data.news.size > 6 %}
+    <button class="news__toggle" type="button" data-news-toggle aria-expanded="false">
+        <span>show all news</span>
+    </button>
+    {% endif %}
+</div>
