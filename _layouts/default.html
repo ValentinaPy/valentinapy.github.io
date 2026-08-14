@@ -25,6 +25,9 @@
 
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
     <link rel="icon" href="{{ site.url }}/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
@@ -44,10 +47,28 @@
       ],
       "sameAs": [
         "https://scholar.google.com/citations?user=E9EgKkMAAAAJ",
+        "https://www.linkedin.com/in/valentina-pyatkin/",
         "https://x.com/valentina__py"
       ]
     }
     </script>
+
+    {% if site.google_analytics %}
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    {% endif %}
+
+    {% if site.goatcounter %}
+    <!-- GoatCounter (privacy-friendly analytics) -->
+    <script data-goatcounter="https://{{ site.goatcounter }}.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+    {% endif %}
 
     {% if page.mathjax %}
     <script type="text/javascript" async
@@ -78,6 +99,7 @@
         <ul class="social">
             <li><a href="mailto:valpyatkin@gmail.com" aria-label="Email"><i class="fas fa-envelope"></i></a></li>
             <li><a href="https://scholar.google.com/citations?user=E9EgKkMAAAAJ&hl=en" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/valentina-pyatkin/" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a></li>
             <li><a href="https://x.com/valentina__py" aria-label="X / Twitter"><i class="fa-brands fa-x-twitter"></i></a></li>
         </ul>
         <p>&copy; {{ site.time | date: "%Y" }} Valentina Pyatkin</p>

@@ -9,6 +9,10 @@ url: https://valentinapy.github.io
 base: ''
 twitter: '@valentina__py'
 
+# Analytics: fill in ONE of these after creating an account (see README).
+# google_analytics: G-XXXXXXXXXX   # GA4 measurement ID from analytics.google.com
+# goatcounter: yourcode            # your code from yourcode.goatcounter.com
+
 markdown: kramdown
 kramdown:
     enable_coderay: false

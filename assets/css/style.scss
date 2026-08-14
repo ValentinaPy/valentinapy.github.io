@@ -21,13 +21,13 @@
   --warm-soft: rgba(201, 106, 59, 0.09);
   --warm-border: rgba(201, 106, 59, 0.3);
 
-  --text: #21211f;
-  --muted: #6d6c68;
-  --bg: #faf9f7;
+  --text: #1c1c1c;
+  --muted: #6b6b6b;
+  --bg: #ffffff;
   --bg-elev: #ffffff;
-  --border: #e6e3dd;
-  --shadow: 0 2px 14px rgba(40, 36, 30, 0.06);
-  --nav-bg: rgba(250, 249, 247, 0.8);
+  --border: #e6e6e6;
+  --shadow: 0 2px 14px rgba(0, 0, 0, 0.05);
+  --nav-bg: rgba(255, 255, 255, 0.8);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -304,13 +304,15 @@ li {
 
 .hero__photo {
   float: right;
-  width: 250px;
+  width: 300px;
   border-radius: 35px;
   box-shadow: var(--shadow);
   margin: 0.35rem 0 1.25rem 2rem;
 }
 
 .hero__name {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-weight: 600;
   margin: 0 0 0.35rem;
   letter-spacing: -0.02em;
 }
@@ -327,23 +329,6 @@ li {
   flex-wrap: wrap;
   gap: 0.9rem;
   margin: 1.25rem 0 1.75rem;
-}
-
-.email-pill {
-  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
-  font-size: 0.85rem;
-  background: var(--bg-elev);
-  border: 1px solid var(--border);
-  border-radius: 100px;
-  padding: 0.4rem 0.85rem;
-  color: var(--text);
-  transition: border-color 0.15s ease;
-}
-
-.email-pill:hover,
-.email-pill:focus {
-  border-color: var(--accent);
-  color: var(--text);
 }
 
 .social {
@@ -381,7 +366,7 @@ li {
   .hero__photo {
     float: none;
     display: block;
-    width: 200px;
+    width: 220px;
     margin: 0 auto 1.5rem;
   }
   .hero__name,
