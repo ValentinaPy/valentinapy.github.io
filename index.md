@@ -17,11 +17,11 @@ Indicate interest using this [application form](https://docs.google.com/forms/d/
 </div>
 
 <div class="callout callout--warm" markdown="1">
-### ICLR 2026 Workshop: Post-AGI Science and Society
+### AI+X Summit: Staging × Misalignment Science
 
-I am excited to be co-organizing the **Post-AGI Science and Society Workshop** at **ICLR 2026**. We will discuss how the scientific process will evolve in a P-AGI society and we will hypothesize what research questions will still be meaningful to answer.
+Join us for the **Staging × Misalignment Science** workshop at the **AI+X Summit** in Zürich: when, where and how safety enters LLM training — from data curation and pre-training to post-training, evaluation, interpretability, and deployment.
 
-Learn more and join us: [p-agi.org](https://p-agi.org){:target="_blank"}
+Learn more and register: [AI+X Summit session page](https://www.plusx.ai/2026-sessions-list/staging-%C3%97-misalignment-science%3A-when%2C-where-and-how-safety-enters-llm-training){:target="_blank"}
 </div>
 
 ## Research
