@@ -1,5 +1,7 @@
 # News items, newest first.
 # `date` is a short display label; `text` supports Markdown links.
+- date: Oct 2026
+  text: "Giving a keynote at the [Scientific Understanding of Foundation Models workshop](https://science-ai-2026.github.io/) at COLM 2026."
 - date: Apr 2026
   text: "Giving a keynote at the [Re-Align workshop](https://representational-alignment.github.io/2026/) at ICLR 2026 in Rio."
 - date: Apr 2026
