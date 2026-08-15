@@ -8,8 +8,6 @@ I completed my PhD in Computer Science at the [NLP lab of Bar Ilan University](h
 
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. My work has been featured in the press, for example by [TechCrunch](https://techcrunch.com/2024/11/21/ai2s-open-source-tulu-3-lets-anyone-play-the-ai-post-training-game/?guccounter=1) and [GeekWire](https://www.geekwire.com/2024/ai2s-new-tulu-3-model-rivals-tech-giants-in-breakthrough-for-open-source-ai-post-training/).
 
-<!--sections-->
-
 <div class="callout" markdown="1">
 ### Work with me: Swiss AI Initiative
 
@@ -25,11 +23,6 @@ I am excited to be co-organizing the **Post-AGI Science and Society Workshop** a
 
 Learn more and join us: [p-agi.org](https://p-agi.org){:target="_blank"}
 </div>
-
-## News
-{: #news .section-heading}
-
-{% include news.html %}
 
 ## Research
 {: #research .section-heading}

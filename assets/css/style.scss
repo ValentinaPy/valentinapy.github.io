@@ -9,7 +9,7 @@
 --------------------------------------------------------------------------- */
 :root,
 [data-theme="light"] {
-  --max-width: 800px;
+  --max-width: 1060px;
   --radius: 14px;
   --radius-sm: 8px;
 
@@ -282,52 +282,77 @@ li {
 }
 
 /* ---------------------------------------------------------------------------
-   Hero
+   Two-column layout: sidebar (photo, contacts, news) + content
 --------------------------------------------------------------------------- */
-.hero {
-  position: relative;
-  margin-bottom: 2.5rem;
+.layout {
+  display: grid;
+  grid-template-columns: 300px minmax(0, 1fr);
+  gap: 3.25rem;
+  animation: fadeUp 0.55s ease both;
 }
 
-.hero::before {
-  content: "";
-  position: absolute;
-  top: -3rem;
-  right: -3rem;
-  width: 320px;
-  height: 320px;
-  background: radial-gradient(circle, var(--accent) 0%, transparent 70%);
-  opacity: 0.08;
-  border-radius: 50%;
-  pointer-events: none;
-  z-index: -1;
-}
-
-.hero__photo {
-  float: right;
-  width: 300px;
+.sidebar__photo {
+  display: block;
+  width: 100%;
   border-radius: 35px;
   box-shadow: var(--shadow);
-  margin: 0.35rem 0 1.25rem 2rem;
 }
 
-.hero__name {
-  margin: 0 0 0.35rem;
+.sidebar__name {
+  font-size: 1.7rem;
+  text-align: center;
+  margin: 1.35rem 0 0.5rem;
   letter-spacing: -0.02em;
 }
 
-.hero__role {
+.sidebar__role {
+  text-align: center;
   color: var(--muted);
-  font-size: 1.05rem;
-  margin-bottom: 1.25rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 1.1rem;
 }
 
-.hero__contact {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.9rem;
-  margin: 1.25rem 0 1.75rem;
+.sidebar__social {
+  justify-content: center;
+  margin-bottom: 2.25rem;
+}
+
+.sidebar__heading {
+  font-size: 1.15rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
+  margin: 0 0 1rem;
+}
+
+.sidebar .news {
+  padding: 1rem 1.15rem;
+}
+
+.sidebar .news__item {
+  grid-template-columns: 1fr;
+  gap: 0.05rem;
+  font-size: 0.9rem;
+  padding: 0.5rem 0;
+}
+
+.content > p:first-child {
+  margin-top: 0.35rem;
+}
+
+.content .section-heading:first-of-type {
+  margin-top: 2.25rem;
+}
+
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .sidebar__photo {
+    width: 220px;
+    margin: 0 auto;
+  }
 }
 
 .social {
@@ -353,28 +378,6 @@ li {
 .social a:focus {
   color: var(--accent);
   transform: translateY(-2px);
-}
-
-.hero::after {
-  content: "";
-  display: block;
-  clear: both;
-}
-
-@media (max-width: 640px) {
-  .hero__photo {
-    float: none;
-    display: block;
-    width: 220px;
-    margin: 0 auto 1.5rem;
-  }
-  .hero__name,
-  .hero__role {
-    text-align: center;
-  }
-  .hero__contact {
-    justify-content: center;
-  }
 }
 
 /* ---------------------------------------------------------------------------
@@ -675,10 +678,6 @@ li {
     opacity: 1;
     transform: translateY(0);
   }
-}
-
-.hero {
-  animation: fadeUp 0.55s ease both;
 }
 
 @media (prefers-reduced-motion: reduce) {
