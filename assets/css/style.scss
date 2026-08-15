@@ -129,16 +129,17 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Crimson Pro", Georgia, serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1.25;
   color: var(--text);
+  letter-spacing: -0.01em;
   margin: 0 0 0.75rem;
 }
 
-h1 { font-size: clamp(2.1rem, 4vw, 2.8rem); }
-h2 { font-size: 1.7rem; }
-h3 { font-size: 1.3rem; }
+h1 { font-size: clamp(1.9rem, 4vw, 2.5rem); }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.2rem; }
 
 ul, ol {
   margin: 0 0 1rem;
@@ -183,9 +184,9 @@ li {
 }
 
 .site-nav__brand {
-  font-family: "Crimson Pro", Georgia, serif;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   font-weight: 700;
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   color: var(--text);
   white-space: nowrap;
 }
@@ -311,8 +312,6 @@ li {
 }
 
 .hero__name {
-  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  font-weight: 600;
   margin: 0 0 0.35rem;
   letter-spacing: -0.02em;
 }
