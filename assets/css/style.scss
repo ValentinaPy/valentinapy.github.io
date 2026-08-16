@@ -637,6 +637,27 @@ li {
 }
 
 /* ---------------------------------------------------------------------------
+   Misc figure
+--------------------------------------------------------------------------- */
+.misc-figure {
+  margin: 1.75rem 0 0;
+}
+
+.misc-figure img {
+  display: block;
+  max-width: 340px;
+  width: 100%;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.misc-figure figcaption {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 0.6rem;
+}
+
+/* ---------------------------------------------------------------------------
    Footer
 --------------------------------------------------------------------------- */
 .site-footer {
