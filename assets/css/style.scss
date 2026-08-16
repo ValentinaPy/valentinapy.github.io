@@ -639,13 +639,15 @@ li {
 /* ---------------------------------------------------------------------------
    Misc figure
 --------------------------------------------------------------------------- */
+/* Pulled into the left column, next to the Misc text */
 .misc-figure {
-  margin: 1.75rem 0 0;
+  float: left;
+  width: 260px;
+  margin: 0.35rem 0 0 calc(-300px - 3.25rem);
 }
 
 .misc-figure img {
   display: block;
-  max-width: 260px;
   width: 100%;
   border-radius: var(--radius);
   box-shadow: var(--shadow);
@@ -655,6 +657,19 @@ li {
   color: var(--muted);
   font-size: 0.85rem;
   margin-top: 0.6rem;
+}
+
+.content::after {
+  content: "";
+  display: block;
+  clear: both;
+}
+
+@media (max-width: 900px) {
+  .misc-figure {
+    float: none;
+    margin: 1.5rem 0 0;
+  }
 }
 
 /* ---------------------------------------------------------------------------
