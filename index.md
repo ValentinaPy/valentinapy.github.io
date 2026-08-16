@@ -59,4 +59,4 @@ Below is a selection of my recent publications; for my full publication record, 
 ## Misc
 {: #misc .section-heading}
 
-Besides this I love rowing, hiking, and going to the "cinemathèque". I think that Italian Neorealism produced some of the most beautiful movies. My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → Me).
+Outside of work I love rowing, hiking, and going to the cinémathèque. I think Italian Neorealism produced some of the most beautiful films ever made, such as *Rocco e i suoi fratelli*. And I'm a Monica Vitti fan. My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → me) and my Kevin Knight number is 2 (Kevin Knight → Yejin Choi → me).
