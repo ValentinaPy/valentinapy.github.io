@@ -63,5 +63,5 @@ Outside of work I love rowing, hiking, and going to the cinémathèque. I think 
 
 <figure class="misc-figure">
   <img src="{{ site.url }}/assets/images/monica-vitti-il-deserto-rosso.jpg" alt="Monica Vitti in Il deserto rosso" width="500" height="500" loading="lazy">
-  <figcaption>Monica Vitti in <em>Il deserto rosso</em> (1964)</figcaption>
+  <figcaption>Monica Vitti in <em>Il deserto rosso</em> (1964) by Antonioni</figcaption>
 </figure>
