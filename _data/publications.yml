@@ -5,6 +5,7 @@
 - year: 2026
   title: "SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning"
   authors: "Alexis Limozin, Eduard Durech, Torsten Hoefler, Imanol Schlag, Valentina Pyatkin"
+  venue: "NeurIPS 2026, Datasets and Benchmarks"
   paper: "https://arxiv.org/pdf/2604.23747"
 
 - year: 2026
