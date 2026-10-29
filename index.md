@@ -18,14 +18,6 @@ I am looking for motivated students to work with me on contributing to the **Swi
 Indicate interest using this [application form](https://docs.google.com/forms/d/e/1FAIpQLSeeLZGxcudL_q-POLwssXg21eVoy9REv349grIij9QkkRmNUQ/viewform){:target="_blank"}, mentioning my name.
 </div>
 
-<div class="callout callout--warm" markdown="1">
-### AI+X Summit: Staging × Misalignment Science
-
-Join us for the **Staging × Misalignment Science** workshop at the **AI+X Summit** in Zürich: when, where and how safety enters LLM training — from data curation and pre-training to post-training, evaluation, interpretability, and deployment.
-
-Learn more and register: [AI+X Summit session page](https://www.plusx.ai/2026-sessions-list/staging-%C3%97-misalignment-science%3A-when%2C-where-and-how-safety-enters-llm-training){:target="_blank"}
-</div>
-
 ## Research
 {: #research .section-heading}
 
