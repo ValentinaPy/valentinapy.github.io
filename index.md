@@ -41,6 +41,7 @@ My research focuses on how one can develop generative AI that is contextually ro
 {: #awards .section-heading}
 
 <ul class="awards">
+    <li><span class="award-date">Oct 2026</span><span><a href="https://arxiv.org/pdf/2609.06842">EMNLP Best Resource Award</a>!</span></li>
   <li><span class="award-date">Aug 2024</span><span><a href="https://arxiv.org/pdf/2402.16786">ACL Outstanding Paper Award</a>!</span></li>
   <li><span class="award-date">Aug 2024</span><span>ACL Best Theme Paper Award for <a href="http://arxiv.org/pdf/2402.00838">OLMo</a>!</span></li>
   <li><span class="award-date">Oct 2023</span><span>Was selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/">DAAD AInet fellow</a>.</span></li>
