@@ -3,6 +3,11 @@
 # Optional fields: venue, award, paper (URL), links (list of {label, url}).
 
 - year: 2026
+  title: "Apertus 1.5: From Open Text Models to Open Multimodal Reasoners"
+  authors: "Project Apertus, including Valentina Pyatkin (Core)"
+  paper: "https://arxiv.org/pdf/2610.15542"
+
+- year: 2026
   title: "XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions?"
   authors: "Akhila Yerukola, Jena D Hwang, Mingqian Zheng, Jenna Godsey, Hyunwoo Kim, Valentina Pyatkin, Jennifer Hu, Maarten Sap"
   venue: "EMNLP 2026"
