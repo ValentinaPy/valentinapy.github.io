@@ -3,6 +3,13 @@
 # Optional fields: venue, award, paper (URL), links (list of {label, url}).
 
 - year: 2026
+  title: "XYBench: Can LLMs Respond Pragmatically to Queries with Misconceptions?"
+  authors: "Akhila Yerukola, Jena D Hwang, Mingqian Zheng, Jenna Godsey, Hyunwoo Kim, Valentina Pyatkin, Jennifer Hu, Maarten Sap"
+  venue: "EMNLP 2026"
+  award: "Best Resource Award"
+  paper: "https://arxiv.org/pdf/2609.06842"
+
+- year: 2026
   title: "SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning"
   authors: "Alexis Limozin, Eduard Durech, Torsten Hoefler, Imanol Schlag, Valentina Pyatkin"
   venue: "NeurIPS 2026, Datasets and Benchmarks"
